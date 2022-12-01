@@ -95,7 +95,7 @@
 #include <stdio.h>
 #include <stdint.h>
 /*---------------------------------------------------------------------------*/
-#define CC26XX_DEMO_LOOP_INTERVAL       (CLOCK_SECOND * 1)
+#define CC26XX_DEMO_LOOP_INTERVAL       (CLOCK_SECOND * 20)
 #define CC26XX_DEMO_LEDS_PERIODIC       LEDS_YELLOW
 #define CC26XX_DEMO_LEDS_BUTTON         LEDS_RED
 #define CC26XX_DEMO_LEDS_REBOOT         LEDS_ALL
@@ -111,7 +111,7 @@ AUTOSTART_PROCESSES(&base_demo_process);
  * Update sensor readings in a staggered fashion every SENSOR_READING_PERIOD
  * ticks + a random interval between 0 and SENSOR_READING_RANDOM ticks
  */
-#define SENSOR_READING_PERIOD (CLOCK_SECOND * 1)
+#define SENSOR_READING_PERIOD (CLOCK_SECOND * 20)
 #define SENSOR_READING_RANDOM (CLOCK_SECOND << 4)
 
 static struct ctimer bmp_timer, opt_timer, hdc_timer, tmp_timer, mpu_timer;
@@ -358,13 +358,13 @@ PROCESS_THREAD(base_demo_process, ev, data)
   rf_ble_beacond_start();
 #endif
 
-  
+  etimer_set(&et, CC26XX_DEMO_LOOP_INTERVAL);
   get_sync_sensor_readings();
   init_sensor_readings();
-  etimer_set(&et, CC26XX_DEMO_LOOP_INTERVAL);
+
   while(1) {
-    printf("wating for etimer\n");
-    PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
+
+    PROCESS_YIELD();
 
     if(ev == PROCESS_EVENT_TIMER) {
       if(data == &et) {
@@ -374,15 +374,13 @@ PROCESS_THREAD(base_demo_process, ev, data)
 
         etimer_set(&et, CC26XX_DEMO_LOOP_INTERVAL);
       }
-    }
-     else if(ev == button_hal_periodic_event) {
+    } else if(ev == button_hal_periodic_event) {
       button_hal_button_t *button = data;
 
       printf("%s periodic event, duration %d seconds\n",
              BUTTON_HAL_GET_DESCRIPTION(button),
              button->press_duration_seconds);
-    }
-     else if(ev == button_hal_press_event) {
+    } else if(ev == button_hal_press_event) {
       button_hal_button_t *btn = (button_hal_button_t *)data;
 
       printf("%s press event\n", BUTTON_HAL_GET_DESCRIPTION(btn));

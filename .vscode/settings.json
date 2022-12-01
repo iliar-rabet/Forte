@@ -1,0 +1,11 @@
+{
+    "nrf-connect.topdir": "/home/iliar/zephyrproject",
+    "nrf-connect.toolchain.path": "PATH",
+    "files.associations": {
+        "*.ipp": "c",
+        "*.tcc": "c",
+        "optional": "c",
+        "system_error": "c",
+        "regex": "c"
+    }
+}

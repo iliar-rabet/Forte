@@ -511,6 +511,178 @@ power_up(void)
   ctimer_set(&startup_timer, SENSOR_BOOT_DELAY, initialise, NULL);
 }
 /*---------------------------------------------------------------------------*/
+// Magnetometer registers
+#define MAG_WHO_AM_I                  0x00  // Should return 0x48
+#define MAG_INFO                      0x01
+#define MAG_ST1                       0x02  // Data ready status: bit 0
+#define MAG_XOUT_L                    0x03  // Data array
+#define MAG_XOUT_H                    0x04
+#define MAG_YOUT_L                    0x05
+#define MAG_YOUT_H                    0x06
+#define MAG_ZOUT_L                    0x07
+#define MAG_ZOUT_H                    0x08
+#define MAG_ST2                       0x09  // Overflow(bit 3), read err(bit 2)
+#define MAG_CNTL1                     0x0A  // Mode bits 3:0, resolution bit 4
+#define MAG_CNTL2                     0x0B  // System reset, bit 0
+#define MAG_ASTC                      0x0C  // Self test control
+#define MAG_I2CDIS                    0x0F  // I2C disable
+#define MAG_ASAX                      0x10  // x-axis sensitivity adjustment
+#define MAG_ASAY                      0x11  // y-axis sensitivity adjustment
+#define MAG_ASAZ                      0x12  // z-axis sensitivity adjustment
+
+#define MAG_DEVICE_ID                 0x48
+
+// Magnetometer status
+#define MAG_STATUS_OK     0x00    /**< Nor magnetometer error */
+#define MAG_READ_ST_ERR   0x01    /**< Magnetometer error */
+#define MAG_DATA_NOT_RDY  0x02    /**< Magnetometer data not ready */
+#define MAG_OVERFLOW      0x03    /**< Magnetometer data overflow */
+#define MAG_READ_DATA_ERR 0x04    /**< Error when reading data */
+#define MAG_BYPASS_FAIL   0x05    /**< Magnetometer bypass enable failed */
+#define MAG_NO_POWER      0x06    /**< No magnetometer power */
+
+//Iliar wrote this
+#define Board_MPU9250_MAG_ADDR  (0x0C)
+#define SENSOR_SELECT_MAG()           board_i2c_select(BOARD_I2C_INTERFACE_1,Board_MPU9250_MAG_ADDR)
+
+// Magnetometer calibration
+static int16_t calX;
+static int16_t calY;
+static int16_t calZ;
+
+// Mode
+#define MAG_MODE_OFF                  0x00
+#define MAG_MODE_SINGLE               0x01
+#define MAG_MODE_CONT1                0x02
+#define MAG_MODE_CONT2                0x06
+#define MAG_MODE_FUSE                 0x0F
+
+// Resolution
+#define MFS_14BITS                    0     // 0.6 mG per LSB
+#define MFS_16BITS                    1     // 0.15 mG per LSB
+
+// Magnetometer control
+static uint8_t scale = MFS_16BITS;      // 16 bit resolution
+static uint8_t mode = MAG_MODE_SINGLE;  // Operating mode
+
+static uint8_t magStatus;
+
+// static void sensorMagInit(void)
+// {
+//     // ST_ASSERT_V(SensorMpu9250_powerIsOn());
+
+//     // if (!sensorMpu9250SetBypass())
+//     // {
+//     //     return;
+//     // }
+
+//     SENSOR_SELECT_MAG();
+    
+//         static uint8_t rawData[3];
+
+//         // Enter Fuse ROM access mode
+//         val = MAG_MODE_FUSE;
+//         sensor_common_write_reg(MAG_CNTL1, &val, 1);
+//         // DELAY_MS(10);
+        
+//         // Get calibration data
+//         if (sensor_common_read_reg(MAG_ASAX, &rawData[0], 3))
+//         {
+//             // Return x-axis sensitivity adjustment values, etc.
+//             calX =  (int16_t)rawData[0] + 128;
+//             calY =  (int16_t)rawData[1] + 128;
+//             calZ =  (int16_t)rawData[2] + 128;
+//         }
+
+//         // Turn off the sensor by doing a reset
+//         val = 0x01;
+//         sensor_common_write_reg(MAG_CNTL2, &val, 1);
+
+//         SENSOR_DESELECT();
+    
+// }
+
+uint8_t SensorMpu9250_magRead(int16_t *data)
+{
+    uint8_t val;
+    uint8_t rawData[7];  // x/y/z compass register data, ST2 register stored here,
+    // must read ST2 at end of data acquisition
+    magStatus = MAG_NO_POWER;
+    // ASSERT(SensorMpu9250_powerIsOn());
+
+    magStatus = MAG_STATUS_OK;
+
+    // Connect magnetometer internally in MPU9250
+    SENSOR_SELECT();
+    val = BIT_BYPASS_EN | BIT_LATCH_EN;
+    if (!sensor_common_write_reg(INT_PIN_CFG, &val, 1))
+    {
+        magStatus = MAG_BYPASS_FAIL;
+    }
+    SENSOR_DESELECT();
+
+    if (magStatus != MAG_STATUS_OK)
+    {
+        return false;
+    }
+
+    // Select this sensor
+    SENSOR_SELECT_MAG();
+
+    if (sensor_common_read_reg(MAG_ST1,&val,1))
+    {
+        // Check magnetometer data ready bit
+        if (val & 0x01)
+        {
+            // Burst read of all compass values + ST2 register
+            if (sensor_common_read_reg(MAG_XOUT_L, &rawData[0],7))
+            {
+                val = rawData[6]; // ST2 register
+
+                // Check if magnetic sensor overflow set, if not report data
+                if(!(val & 0x08))
+                {
+                    // Turn the MSB and LSB into a signed 16-bit value,
+                    // data stored as little Endian
+                    data[0] = ((int16_t)rawData[1] << 8) | rawData[0];
+                    data[1] = ((int16_t)rawData[3] << 8) | rawData[2];
+                    data[2] = ((int16_t)rawData[5] << 8) | rawData[4];
+
+                    // Sensitivity adjustment
+                    data[0] = data[0] * calX >> 8;
+                    data[1] = data[1] * calY >> 8;
+                    data[2] = data[2] * calZ >> 8;
+                }
+                else
+                {
+                    magStatus = MAG_OVERFLOW;
+                }
+            }
+            else
+            {
+                magStatus = MAG_READ_DATA_ERR;
+            }
+        }
+        else
+        {
+            magStatus = MAG_DATA_NOT_RDY;
+        }
+    }
+    else
+    {
+        magStatus = MAG_READ_ST_ERR;
+    }
+
+    // Set magnetometer data resolution and sample ODR
+    // Start new conversion
+    val = (scale << 4) | mode;
+    sensor_common_write_reg(MAG_CNTL1, &val, 1);
+
+    SENSOR_DESELECT();
+
+    return magStatus;
+}
+
 /**
  * \brief Returns a reading from the sensor
  * \param type MPU_9250_SENSOR_TYPE_ACC_[XYZ] or MPU_9250_SENSOR_TYPE_GYRO_[XYZ]
@@ -580,7 +752,6 @@ value(int type)
     PRINTF("MPU: Invalid type\n");
     rv = CC26XX_SENSOR_READING_ERROR;
   }
-
   PRINTF("%ld\n", (long int)(converted_val * 100));
 
   return rv;
