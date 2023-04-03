@@ -194,9 +194,11 @@ PROCESS_THREAD(udp_client_process, ev, data)
       if (MPU == 3 || MPU == 2){
           mv_cnt++;
         }
-      if(mv_cnt >= 2)
+      if(mv_cnt >= 2){
         state = 2;
         st_cnt=0;
+      }
+        
     }
     if(state==2){
       if (MPU == 0 || MPU == 1){
