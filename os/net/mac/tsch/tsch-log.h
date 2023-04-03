@@ -47,6 +47,7 @@
 
 /******** Configuration *******/
 
+#define TSCH_LOG_CONF_PER_SLOT 1
 /* TSCH per-slot logging. Enabled by default if DBG is enabled */
 #ifdef TSCH_LOG_CONF_PER_SLOT
 #define TSCH_LOG_PER_SLOT TSCH_LOG_CONF_PER_SLOT

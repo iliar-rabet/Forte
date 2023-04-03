@@ -1,0 +1,3 @@
+#define RPL_CONF_WITH_DAO_ACK 0
+#define RPL_CONF_WITH_PROBING 0
+

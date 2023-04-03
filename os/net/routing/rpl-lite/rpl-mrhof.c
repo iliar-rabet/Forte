@@ -52,7 +52,7 @@
 /* Log configuration */
 #include "sys/log.h"
 #define LOG_MODULE "RPL"
-#define LOG_LEVEL LOG_LEVEL_RPL
+#define LOG_LEVEL LOG_LEVEL_INFO
 
 /* RFC6551 and RFC6719 do not mandate the use of a specific formula to
  * compute the ETX value. This MRHOF implementation relies on the value
@@ -80,7 +80,7 @@
 #ifdef RPL_MRHOF_CONF_MAX_LINK_METRIC
 #define MAX_LINK_METRIC     RPL_MRHOF_CONF_MAX_LINK_METRIC
 #else /* RPL_MRHOF_CONF_MAX_LINK_METRIC */
-#define MAX_LINK_METRIC     512 /* Eq ETX of 4 */
+#define MAX_LINK_METRIC     1028 /* Eq ETX of 8 */
 #endif /* RPL_MRHOF_CONF_MAX_LINK_METRIC */
 
 /* Reject parents that have a higher path cost than the following. */
@@ -114,7 +114,14 @@ static uint16_t
 nbr_link_metric(rpl_nbr_t *nbr)
 {
   const struct link_stats *stats = rpl_neighbor_get_link_stats(nbr);
-  return stats != NULL ? stats->etx : 0xffff;
+  if(stats != NULL){
+    // printf("returning stats->etx");
+    return stats->etx;
+  }
+  else
+    // return 0xffff;
+    return 0xffff;
+
 }
 /*---------------------------------------------------------------------------*/
 static uint16_t
@@ -180,6 +187,7 @@ nbr_has_usable_link(rpl_nbr_t *nbr)
 {
   uint16_t link_metric = nbr_link_metric(nbr);
   /* Exclude links with too high link metrics  */
+  // printf("link metric %d , max %d\n",link_metric,MAX_LINK_METRIC);
   return link_metric <= MAX_LINK_METRIC;
 }
 /*---------------------------------------------------------------------------*/
