@@ -1,0 +1,142 @@
+1396 1175 212 53 42 50 0[INFO: TSCH-LOG  ] {asn 00.00003310 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  66, st 2  1[INFO: TSCH-LOG  ] {asn 00.00003321 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  66, st 0  2, dr  -8
+
+tx:Unicast 909326388
+ asn 00.00003310 link  1  17   0 16  2 ch 26
+1134 1198 83 60 44 48 0[INFO: TSCH-LOG  ] {asn 00.000033cb link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  67, st 0  1, dr   4
+
+tx:Unicast 909326389
+ asn 00.000033cb link  1  17   0 16  2 ch 25
+973 1138 254 53 39 48 0[INFO: TSCH-LOG  ] {asn 00.00003497 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  68, st 2  1[INFO: TSCH-LOG  ] {asn 00.000034a8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  68, st 2  2[INFO: TSCH-LOG  ] {asn 00.000034b9 link  1  17   0 16  2 ch 20} drift -21 ppm (min/max delta seen: -26/8)
+
+tx:Unicast 909326390
+ asn 00.00003497 link  1  17   0 16  2 ch 25
+1235 1190 229 53 46 47 0[INFO: TSCH-LOG  ] {asn 00.00003563 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  69, st 0  1, dr  -2
+
+tx:Unicast 909326391
+ asn 00.00003563 link  1  17   0 16  2 ch 25
+1312 1112 220 57 39 46 0[INFO: TSCH-LOG  ] {asn 00.0000362f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  70, st 0  1, dr   2
+
+tx:Unicast 909326392
+ asn 00.0000362f link  1  17   0 16  2 ch 25
+1203 1170 450 62 45 46 0[INFO: TSCH-LOG  ] {asn 00.000036fa link  2  31   0  0  0 ch 26} bc-1-0 tx LL-0485->LL-NULL, len  94, seq  36, st 0  1
+
+tx:Unicast 909326393
+ asn 00.000036fa link  2  31   0  0  0 ch 26
+1342 1131 124 60 48 53 0[INFO: TSCH-LOG  ] {asn 00.000037b6 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  72, st 0  1, dr  -2
+
+tx:Unicast 909326394
+ asn 00.000037b6 link  1  17   0 16  2 ch 15
+919 1090 196 55 44 45 0[INFO: TSCH-LOG  ] {asn 00.00003880 link  1  17   0 14  3 ch 20} !failed to parse frame 0 0[INFO: TSCH-LOG  ] {asn 00.00003882 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  73, st 0  1, dr  -4
+
+tx:Unicast 909326395
+ asn 00.00003880 link  1  17   0 14  3 ch 20
+1334 997 168 60 42 48 0[INFO: TSCH-LOG  ] {asn 00.00003947 link  2  31   0  0  0 ch 20} bc-1-0 tx LL-0485->LL-NULL, len  94, seq  39, st 0  1[INFO: TSCH-LOG  ] {asn 00.0000394e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  75, st 0  1, dr  -6
+
+tx:Unicast 909326396
+ asn 00.00003947 link  2  31   0  0  0 ch 20
+1321 1142 419 59 43 46 0[INFO: TSCH-LOG  ] {asn 00.00003a1a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  76, st 0  1, dr   2
+
+tx:Unicast 909326397
+ asn 00.00003a1a link  1  17   0 16  2 ch 15
+939 1208 199 61 44 51 0[INFO: TSCH-LOG  ] {asn 00.00003ad5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  77, st 0  1, dr  -4
+
+tx:Unicast 909326398
+ asn 00.00003ad5 link  1  17   0 16  2 ch 20
+1264 1235 343 56 41 46 0[INFO: TSCH-LOG  ] {asn 00.00003ba1 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  56, seq  78, st 0  1, dr  -2
+
+tx:Unicast 909326399
+ asn 00.00003ba1 link  1  17   0 16  2 ch 20
+25012 25013 15506 171 78 134 3[INFO: TSCH-LOG  ] {asn 00.00003c6d link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -26/8)
+
+tx:Unicast 909326400
+ asn 00.00003c6d link  1  17   0 16  2 ch 20
+25012 25013 8028 149 62 37 3[INFO: TSCH-LOG  ] {asn 00.00003d46 link  2  31   0  0  0 ch 26} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  41, st 0  1[INFO: TSCH-LOG  ] {asn 00.00003d48 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-22eb->LL-0485, len  70, seq 102, edr  -4[INFO: TSCH-LOG  ] {asn 00.00003d4a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  71, seq  80, st 0  1, dr   2
+
+tx:Broadcast 909326401
+ asn 00.00003d46 link  2  31   0  0  0 ch 26
+25012 18816 23697 19 146 51 3[INFO: TSCH-LOG  ] {asn 00.00003e00 link  2  31   0  0  0 ch 15} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  42, st 0  1[INFO: TSCH-LOG  ] {asn 00.00003e03 link  1  17   0 14  3 ch 26} uc-1-0 rx LL-22eb->LL-0485, len  71, seq 103, edr  -5[INFO: TSCH-LOG  ] {asn 00.00003e05 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -26/8)
+
+tx:Broadcast 909326402
+ asn 00.00003e00 link  2  31   0  0  0 ch 15
+25012 14569 25012 136 57 95 3[INFO: TSCH-LOG  ] {asn 00.00003ed9 link  2  31   0  0  0 ch 25} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  43, st 0  1[INFO: TSCH-LOG  ] {asn 00.00003ee0 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-22eb->LL-0485, len  70, seq 104, edr  -4[INFO: TSCH-LOG  ] {asn 00.00003ee2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  71, seq  82, st 0  1, dr   0
+
+tx:Broadcast 909326403
+ asn 00.00003ed9 link  2  31   0  0  0 ch 25
+25012 5888 25013 199 111 17 3[INFO: TSCH-LOG  ] {asn 00.00003f93 link  2  31   0  0  0 ch 20} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  45, st 0  1[INFO: TSCH-LOG  ] {asn 00.00003fac link  1  17   0 14  3 ch 20} uc-1-0 rx LL-22eb->LL-0485, len  70, seq 105, edr  -2[INFO: TSCH-LOG  ] {asn 00.00003fae link  1  17   0 16  2 ch 15} drift -23 ppm (min/max delta seen: -26/8)
+
+tx:Broadcast 909326404
+ asn 00.00003f93 link  2  31   0  0  0 ch 20
+25012 13122 25012 119 51 75 3[INFO: TSCH-LOG  ] {asn 00.0000404d link  2  31   0  0  0 ch 25} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  46, st 0  1[INFO: TSCH-LOG  ] {asn 00.00004056 link  1  17   0 14  3 ch 25} uc-1-0 rx LL-22eb->LL-0485, len  70, seq 106, edr  -5[INFO: TSCH-LOG  ] {asn 00.00004058 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  71, seq  84, st 0  1, dr  -4
+
+tx:Broadcast 909326405
+ asn 00.0000404d link  2  31   0  0  0 ch 25
+25012 13606 25013 200 107 82 3[INFO: TSCH-LOG  ] {asn 00.00004126 link  2  31   0  0  0 ch 26} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  48, st 0  1[INFO: TSCH-LOG  ] {asn 00.00004166 link  1  17   0 14  3 ch 25} uc-1-0 rx LL-22eb->LL-0485, len  70, seq 107, edr  -4[INFO: TSCH-LOG  ] {asn 00.00004168 link  1  17   0 16  2 ch 26} drift -23 ppm (min/max delta seen: -26/8)
+
+tx:Broadcast 909326406
+ asn 00.00004126 link  2  31   0  0  0 ch 26
+25012 10326 25012 166 52 67 3[INFO: TSCH-LOG  ] {asn 00.000041e0 link  2  31   0  0  0 ch 15} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  49, st 0  1[INFO: TSCH-LOG  ] {asn 00.000041fe link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq 107, edr  -4, dr   4
+
+tx:Broadcast 909326407
+ asn 00.000041e0 link  2  31   0  0  0 ch 15
+2396 11197 25013 200 80 65 3[INFO: TSCH-LOG  ] {asn 00.000042b9 link  2  31   0  0  0 ch 25} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  50, st 0  1[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3641:b95d:22eb, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 573
+
+tx:Broadcast 909326408
+ asn 00.000042b9 link  2  31   0  0  0 ch 25
+7993 25012 13409 3 34 54 3[INFO: TSCH-LOG  ] {asn 00.00004373 link  2  31   0  0  0 ch 20} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  51, st 0  1[INFO: TSCH-LOG  ] {asn 00.00004375 link  1  17   0 14  3 ch 15} uc-1-0 rx LL-22eb->LL-0485, len  70, seq 108, edr  -3[INFO: TSCH-LOG  ] {asn 00.00004377 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  71, seq  86, st 2  1[INFO: TSCH-LOG  ] {asn 00.00004388 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  71, seq  86, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000438b link  0 397   0 220  1 ch 15} drift -22 ppm (min/max delta seen: -26/8)
+
+tx:Broadcast 909326409
+ asn 00.00004373 link  2  31   0  0  0 ch 20
+1216 14994 1766 40 76 17 2[INFO: TSCH-LOG  ] {asn 00.0000444c link  2  31   0  0  0 ch 15} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  52, st 0  1[INFO: TSCH-LOG  ] {asn 00.00004452 link  1  17   0 14  3 ch 25} uc-1-0 rx LL-22eb->LL-0485, len  70, seq 109, edr  -8[INFO: TSCH-LOG  ] {asn 00.00004454 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  71, seq  87, st 2  1[INFO: TSCH-LOG  ] {asn 00.00004465 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  71, seq  87, st 0  2, dr   4
+
+tx:Broadcast 909326410
+ asn 00.0000444c link  2  31   0  0  0 ch 15
+1790 1248 180 7 6 115 0[INFO: TSCH-LOG  ] {asn 00.00004506 link  2  31   0  0  0 ch 26} bc-1-0 tx LL-0485->LL-NULL, len  43, seq  53, st 0  1[INFO: TSCH-LOG  ] {asn 00.0000451e link  1  17   0 14  3 ch 25} uc-1-0 rx LL-22eb->LL-0485, len  70, seq 110, edr  -5[INFO: TSCH-LOG  ] {asn 00.00004520 link  1  17   0 16  2 ch 26} drift -24 ppm (min/max delta seen: -26/8)
+
+tx:Broadcast 909326411
+ asn 00.00004506 link  2  31   0  0  0 ch 26
+['asn', '00.00003310', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '26']
+['asn', '00.000033cb', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '25']
+['asn', '00.000034a8', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '26']
+['asn', '00.00003563', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '25']
+['asn', '00.0000362f', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '25']
+['asn', '00.000036fb', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '25']
+['asn', '00.000037b6', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '15']
+['asn', '00.00003882', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '15']
+['asn', '00.0000394e', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '15']
+['asn', '00.00003a1a', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '15']
+['asn', '00.00003ad5', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '20']
+['asn', '00.00003ba1', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '20']
+['asn', '00.00003c6d', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '20']
+['asn', '00.00003d4a', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '15']
+['asn', '00.00003e05', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '20']
+['asn', '00.00003ee2', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '15']
+['asn', '00.00003fae', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '15']
+['asn', '00.00004058', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '26']
+['asn', '00.00004168', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '26']
+['asn', '00.00004388', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '26']
+['asn', '00.00004465', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '20']
+['asn', '00.00004520', 'link', '', '1', '', '17', '', '', '0', '16', '', '2', 'ch', '26']
+i: 909326388 Unicast 00.00003310 00.00003310 0
+i: 909326389 Unicast 00.000033cb 00.000033cb 0
+i: 909326390 Unicast 00.00003497 00.000034a8 17
+i: 909326391 Unicast 00.00003563 00.00003563 0
+i: 909326392 Unicast 00.0000362f 00.0000362f 0
+i: 909326393 Unicast 00.000036fa 00.000036fb 1
+i: 909326394 Unicast 00.000037b6 00.000037b6 0
+i: 909326395 Unicast 00.00003880 00.00003882 2
+i: 909326396 Unicast 00.00003947 00.0000394e 7
+i: 909326397 Unicast 00.00003a1a 00.00003a1a 0
+i: 909326398 Unicast 00.00003ad5 00.00003ad5 0
+i: 909326399 Unicast 00.00003ba1 00.00003ba1 0
+i: 909326400 Unicast 00.00003c6d 00.00003c6d 0
+i: 909326401 Broadcast 00.00003d46 00.00003d4a 4
+i: 909326402 Broadcast 00.00003e00 00.00003e05 5
+i: 909326403 Broadcast 00.00003ed9 00.00003ee2 9
+i: 909326404 Broadcast 00.00003f93 00.00003fae 27
+i: 909326405 Broadcast 00.0000404d 00.00004058 11
+i: 909326406 Broadcast 00.00004126 00.00004168 66
+i: 909326407 Broadcast 00.000041e0 0
+i: 909326408 Broadcast 00.000042b9 0
+i: 909326409 Broadcast 00.00004373 00.00004388 21
+i: 909326410 Broadcast 00.0000444c 00.00004465 25
+i: 909326411 Broadcast 00.00004506 00.00004520 26
