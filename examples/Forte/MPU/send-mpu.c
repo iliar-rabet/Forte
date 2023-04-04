@@ -169,6 +169,8 @@ PROCESS_THREAD(udp_client_process, ev, data)
   static int st_cnt=0;
 
   PROCESS_BEGIN();
+  
+  tx_count=1;
   state=0;
 
   init_sensor_readings();
@@ -178,7 +180,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
   simple_udp_register(&anchor_conn, ANCHOR_PORT, NULL,
                       ANCHOR_PORT, downward_callback);
 
-  etimer_set(&periodic_timer, 100*CC26XX_DEMO_LOOP_INTERVAL);
+  etimer_set(&periodic_timer, 500*CC26XX_DEMO_LOOP_INTERVAL);
 
 
   while(1) {
@@ -218,8 +220,6 @@ PROCESS_THREAD(udp_client_process, ev, data)
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
   
     
-    sprintf(str,"Hi %d",tx_count);
-
     if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
       if(state == 0 || state == 1){
       // if(tx_count%2 == 1){ 
