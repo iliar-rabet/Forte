@@ -1,6 +1,7 @@
 #include "DT.c"
 #include "contiki.h"
 #include "net/routing/routing.h"
+#include "net/routing/rpl-lite/rpl.h"
 #include "random.h"
 #include "net/netstack.h"
 #include "net/ipv6/simple-udp.h"
@@ -33,35 +34,23 @@
 #define ANCHOR_PORT	5678
 #define SERVER_PORT	4567
 
+#undef FORTE
 // #include "arch/platform/cc26x0-cc13x0/sensortag/mpu-9250-sensor.c"
 /*---------------------------------------------------------------------------*/
 #define CC26XX_DEMO_LOOP_INTERVAL       (CLOCK_SECOND / 64)
 /*---------------------------------------------------------------------------*/
-static struct simple_udp_connection anchor_conn, server_conn;
+static struct simple_udp_connection server_conn;
+
+
 
 /*---------------------------------------------------------------------------*/
 PROCESS(udp_client_process, "UDP client");
 AUTOSTART_PROCESSES(&udp_client_process);
 /*---------------------------------------------------------------------------*/
 
-
+#ifdef FORTE
+static struct simple_udp_connection anchor_conn;
 static void init_mpu_reading(void *not_used);
-/*---------------------------------------------------------------------------*/
-// static void
-// print_mpu_reading(int reading, char * str) 
-// {
-//   if(reading < 0) {
-//     printf("-");
-//     reading = -reading;
-//   }
-  
-//   char str[6];
-//   sprintf(str,"%d.%02d", reading / 100, reading % 100);
-//   printf(str);
-//   return str;
-// }
-/*---------------------------------------------------------------------------*/
-// static struct ctimer mpu_timer;
 /*---------------------------------------------------------------------------*/
 static int
 get_mpu_reading(char * str)
@@ -117,7 +106,7 @@ get_mpu_reading(char * str)
 
 //  ctimer_set(&mpu_timer, next, init_mpu_reading, NULL);
   int cls = DT(ax,ay,az,gx,gy,gz);
-  printf("%d %d %d %d %d %d %d",ax, ay,az, gx,gy,gz, cls);
+  // printf("%d %d %d %d %d %d %d",ax, ay,az, gx,gy,gz, cls);
   return cls;
 }
 /*---------------------------------------------------------------------------*/
@@ -127,13 +116,6 @@ init_mpu_reading(void *not_used)
   mpu_9250_sensor.configure(SENSORS_ACTIVE, MPU_9250_SENSOR_TYPE_ALL);
 }
 
-
-/*---------------------------------------------------------------------------*/
-// static void
-// init_sensors(void)
-// {
-//   SENSORS_ACTIVATE(batmon_sensor);
-// }
 /*---------------------------------------------------------------------------*/
 static void
 init_sensor_readings(void)
@@ -141,6 +123,7 @@ init_sensor_readings(void)
   init_mpu_reading(NULL);
 }
 /*---------------------------------------------------------------------------*/
+#endif
 
 static void
 downward_callback(struct simple_udp_connection *c,
@@ -162,29 +145,36 @@ PROCESS_THREAD(udp_client_process, ev, data)
   static char str[62];
   static uip_ipaddr_t dest_ipaddr;
   static int tx_count;
-  // int ax, ay, az, gx, gy, gz;
+  
+  #ifdef FORTE
   static int state;
   static int MPU;
   static int mv_cnt=0;
   static int st_cnt=0;
+  #endif
 
   PROCESS_BEGIN();
   
+  #ifdef FORTE
   tx_count=1;
   state=0;
-
   init_sensor_readings();
+  rpl_set_leaf_only(1);
+  #endif
+
   /* Initialize UDP connection */
   simple_udp_register(&server_conn, SERVER_PORT, NULL,
-                      SERVER_PORT, NULL);
+                      SERVER_PORT, downward_callback);
+  #ifdef FORTE
   simple_udp_register(&anchor_conn, ANCHOR_PORT, NULL,
                       ANCHOR_PORT, downward_callback);
+  #endif
 
   etimer_set(&periodic_timer, 500*CC26XX_DEMO_LOOP_INTERVAL);
 
 
   while(1) {
-    
+    #ifdef FORTE    
     MPU = get_mpu_reading(str);
     if(state==0){
         if (MPU == 3 || MPU == 2){
@@ -216,22 +206,26 @@ PROCESS_THREAD(udp_client_process, ev, data)
         state=0;
       }
     }
+    #endif
 
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
   
     
     if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
+      #ifdef FORTE
       if(state == 0 || state == 1){
       // if(tx_count%2 == 1){ 
+      #endif
         sprintf(str,"Unicast %d",tx_count);
         simple_udp_sendto(&server_conn, str, strlen(str), &dest_ipaddr);
+      #ifdef FORTE
       }
       else{
         uip_create_linklocal_allnodes_mcast(&dest_ipaddr);
         sprintf(str,"Broadcast %d",tx_count);
         simple_udp_sendto(&anchor_conn, str, strlen(str), &dest_ipaddr);
       }
-      
+      #endif
       tx_count++;
       LOG_INFO("Done Sending: %s\n",str);
     } else {
