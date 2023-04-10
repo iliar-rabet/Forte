@@ -34,7 +34,7 @@
 #define ANCHOR_PORT	5678
 #define SERVER_PORT	4567
 
-#undef FORTE
+// #undef FORTE
 // #include "arch/platform/cc26x0-cc13x0/sensortag/mpu-9250-sensor.c"
 /*---------------------------------------------------------------------------*/
 #define CC26XX_DEMO_LOOP_INTERVAL       (CLOCK_SECOND / 64)
