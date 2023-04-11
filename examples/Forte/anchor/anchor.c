@@ -16,6 +16,7 @@
 #include <string.h>
 #include <stdlib.h>
 
+#include "arch/dev/radio/cc2420/cc2420.h"
 
 #define TSCH_LOG_CONF_PER_SLOT                     1
 
@@ -202,6 +203,9 @@ PROCESS_THREAD(sdmob_anchor_node_process, ev, data)
   static struct etimer periodic_timer;
 
   PROCESS_BEGIN();
+
+  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, RADIO_TXPOWER_TXPOWER_Neg16dBm);
+
   // simple_udp_register(&up_rss_an_conn, UP_RSS_AN_PT,
   //                     NULL, UP_RSS_AN_PT, NULL);
 

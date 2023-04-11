@@ -23,6 +23,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
+// #include "arch/cpu/cc26x0-cc13x0/rf-core/ieee-mode.c"
 
 #define DEBUG DEBUG_PRINT
 #include "net/ipv6/uip-debug.h"
@@ -34,7 +35,7 @@
 #define ANCHOR_PORT	5678
 #define SERVER_PORT	4567
 
-// #undef FORTE
+#undef FORTE
 // #include "arch/platform/cc26x0-cc13x0/sensortag/mpu-9250-sensor.c"
 /*---------------------------------------------------------------------------*/
 #define CC26XX_DEMO_LOOP_INTERVAL       (CLOCK_SECOND / 64)
@@ -144,7 +145,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
   static struct etimer periodic_timer;
   static char str[62];
   static uip_ipaddr_t dest_ipaddr;
-  static int tx_count;
+  static int tx_count=1;
   
   #ifdef FORTE
   static int state;
@@ -155,6 +156,10 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
   PROCESS_BEGIN();
   
+  // set_tx_power(-15);
+
+  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, -12);
+
   #ifdef FORTE
   tx_count=1;
   state=0;

@@ -45,6 +45,8 @@
 #define WITH_SERVER_REPLY  0
 #define SERVER_PORT	4567
 
+#include "arch/dev/radio/cc2420/cc2420.h"
+
 static struct simple_udp_connection udp_conn;
 
 
@@ -78,6 +80,7 @@ PROCESS_THREAD(contiki_ng_br, ev, data)
   PROCESS_BEGIN();
 
 NETSTACK_ROUTING.root_start();
+NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, RADIO_TXPOWER_TXPOWER_Neg16dBm);
  
 #if BORDER_ROUTER_CONF_WEBSERVER
   PROCESS_NAME(webserver_nogui_process);
