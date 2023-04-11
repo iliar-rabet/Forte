@@ -17,6 +17,8 @@
 #include <stdlib.h>
 
 #include "arch/dev/radio/cc2420/cc2420.h"
+#include "os/net/mac/tsch/tsch.h"
+
 
 #define TSCH_LOG_CONF_PER_SLOT                     1
 
@@ -127,7 +129,11 @@ mn_callback(struct simple_udp_connection *c,
 
   int16_t packet_rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI);
   sprintf(str, "%s %d", data, packet_rssi);
-  printf("str: %s\n", str);
+  
+  LOG_INFO("Relaying: %s asn %02x.%08"PRIx32"\n",
+  str,  
+  tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+
   if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
     simple_udp_sendto(&server_udp, str, strlen(str), &dest_ipaddr);
   }
@@ -204,7 +210,7 @@ PROCESS_THREAD(sdmob_anchor_node_process, ev, data)
 
   PROCESS_BEGIN();
 
-  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, RADIO_TXPOWER_TXPOWER_Neg16dBm);
+  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, RADIO_TXPOWER_TXPOWER_Neg8dBm);
 
   // simple_udp_register(&up_rss_an_conn, UP_RSS_AN_PT,
   //                     NULL, UP_RSS_AN_PT, NULL);

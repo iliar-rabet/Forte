@@ -46,6 +46,8 @@
 #define SERVER_PORT	4567
 
 #include "arch/dev/radio/cc2420/cc2420.h"
+#include "os/net/mac/tsch/tsch.h"
+
 
 static struct simple_udp_connection udp_conn;
 
@@ -59,9 +61,13 @@ udp_rx_callback(struct simple_udp_connection *c,
          const uint8_t *data,
          uint16_t datalen)
 {
-  LOG_INFO("Received request '%.*s' from ", datalen, (char *) data);
+  LOG_INFO("Received request: %s asn %02x.%08"PRIx32,
+  data,  
+  tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+  
   LOG_INFO_6ADDR(sender_addr);
   LOG_INFO_("\n");
+
 #if WITH_SERVER_REPLY
   /* send back the same string to the client as an echo reply */
   LOG_INFO("Sending response.\n");
@@ -80,7 +86,7 @@ PROCESS_THREAD(contiki_ng_br, ev, data)
   PROCESS_BEGIN();
 
 NETSTACK_ROUTING.root_start();
-NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, RADIO_TXPOWER_TXPOWER_Neg16dBm);
+NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, RADIO_TXPOWER_TXPOWER_Neg8dBm);
  
 #if BORDER_ROUTER_CONF_WEBSERVER
   PROCESS_NAME(webserver_nogui_process);

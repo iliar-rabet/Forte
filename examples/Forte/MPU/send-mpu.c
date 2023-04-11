@@ -236,7 +236,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
       }
       #endif
       tx_count++;
-      LOG_INFO("Done Sending: %s\n",str);
+      // LOG_INFO("Done Sending: %s\n",str);
 
     } else {
       LOG_INFO("Not reachable yet\n");
