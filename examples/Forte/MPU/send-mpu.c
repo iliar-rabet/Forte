@@ -23,7 +23,8 @@
 #include <stdio.h>
 #include <stdint.h>
 
-// #include "arch/cpu/cc26x0-cc13x0/rf-core/ieee-mode.c"
+#include "os/net/mac/tsch/tsch.h"
+
 
 #define DEBUG DEBUG_PRINT
 #include "net/ipv6/uip-debug.h"
@@ -215,7 +216,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
   
-    
+    LOG_INFO("Start Sending: %s %d\n",str, tsch_current_asn.ms1b); 
     if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
       #ifdef FORTE
       if(state == 0 || state == 1){
@@ -233,6 +234,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
       #endif
       tx_count++;
       LOG_INFO("Done Sending: %s\n",str);
+
     } else {
       LOG_INFO("Not reachable yet\n");
     }
