@@ -216,7 +216,10 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
   
-    LOG_INFO("Start Sending: %s %d\n",str, tsch_current_asn.ms1b); 
+    LOG_INFO("Start Sending: %s asn %02x.%08"PRIx32"\n",
+    str,  
+    tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+
     if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
       #ifdef FORTE
       if(state == 0 || state == 1){
