@@ -130,7 +130,8 @@ mn_callback(struct simple_udp_connection *c,
   uiplib_ipaddr_snprint(mobile_str_addr, 21, sender_addr);
 
   int16_t packet_rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI);
-  sprintf(str, "relayed %s %d from %s", data, packet_rssi,mobile_str_addr);
+  // sprintf(str, "relayed %s %d from %s", data, packet_rssi,mobile_str_addr);
+  sprintf(str, "relayed %s %d", data, packet_rssi);
   
   LOG_INFO("Relaying: %s asn %02x.%08"PRIx32"\n",
   str,  
@@ -219,21 +220,6 @@ PROCESS_THREAD(sdmob_anchor_node_process, ev, data)
   PROCESS_BEGIN();
 
   NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, RADIO_TXPOWER_TXPOWER_Neg8dBm);
-
-  // simple_udp_register(&up_rss_an_conn, UP_RSS_AN_PT,
-  //                     NULL, UP_RSS_AN_PT, NULL);
-
-  // simple_udp_register(&up_rss_mn_conn, UP_RSS_MN_PT, NULL,
-  //                     UP_RSS_MN_PT, rss_callback);
-  
-  // simple_udp_register(&dn_ctl_br_conn, DN_CTL_BR_PT, NULL,
-  //                     DN_CTL_BR_PT, downward_callback);  
-
-  // simple_udp_register(&up_dat_mn_conn, UP_DAT_MN_PT, NULL,
-  //                     UP_DAT_MN_PT, data_relay);
-
-  // simple_udp_register(&up_dat_an_conn, UP_DAT_AN_PT, NULL,
-  //                     UP_DAT_AN_PT, NULL);
 
   simple_udp_register(&server_udp, SERVER_PT, NULL,
                       SERVER_PT, server_callback);

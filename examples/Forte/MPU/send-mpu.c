@@ -161,9 +161,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
   PROCESS_BEGIN();
   
-  // set_tx_power(-15);
-
-  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, -12);
+  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, -8);
 
   #ifdef FORTE
   tx_count=1;
@@ -180,7 +178,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
                       ANCHOR_PORT, downward_callback);
   #endif
 
-  etimer_set(&periodic_timer, 500*CC26XX_DEMO_LOOP_INTERVAL);
+  etimer_set(&periodic_timer, 120*CLOCK_SECOND);
 
 
   while(1) {
@@ -234,8 +232,6 @@ PROCESS_THREAD(udp_client_process, ev, data)
       LOG_INFO("Start Sending: Unicast %d asn %02x.%08"PRIx32"\n",
         tx_count, tsch_current_asn.ms1b, tsch_current_asn.ls4b);
       #endif
-      
-
     }
 
     if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
