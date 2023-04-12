@@ -161,7 +161,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
   PROCESS_BEGIN();
   
-  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, -8);
+  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, -4);
 
   #ifdef FORTE
   tx_count=1;

@@ -219,7 +219,7 @@ PROCESS_THREAD(sdmob_anchor_node_process, ev, data)
 
   PROCESS_BEGIN();
 
-  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, RADIO_TXPOWER_TXPOWER_Neg8dBm);
+  NETSTACK_RADIO.set_value(RADIO_PARAM_TXPOWER, RADIO_TXPOWER_TXPOWER_Neg4dBm);
 
   simple_udp_register(&server_udp, SERVER_PT, NULL,
                       SERVER_PT, server_callback);
