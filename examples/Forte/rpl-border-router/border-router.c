@@ -42,7 +42,7 @@
 #define LOG_LEVEL LOG_LEVEL_INFO
 
 
-#define WITH_SERVER_REPLY  0
+#define WITH_SERVER_REPLY  1
 #define SERVER_PORT	4567
 
 #include "arch/dev/radio/cc2420/cc2420.h"
@@ -50,7 +50,21 @@
 
 
 static struct simple_udp_connection udp_conn;
+static bool flag=false;
+static uip_ipaddr_t *best_addr;
+static struct ctimer ct;
+static int max_rss=-90;
 
+#if WITH_SERVER_REPLY
+static void timer_events(void *ptr){
+  LOG_INFO("CTIMER Sending response to ");
+  LOG_INFO_6ADDR(best_addr);
+  LOG_INFO_("\n");
+
+  simple_udp_sendto(&udp_conn, "HI", 2, best_addr);
+
+}
+#endif
 
 static void
 udp_rx_callback(struct simple_udp_connection *c,
@@ -61,7 +75,8 @@ udp_rx_callback(struct simple_udp_connection *c,
          const uint8_t *data,
          uint16_t datalen)
 {
-  LOG_INFO("Received request: %s asn %02x.%08"PRIx32,
+
+  LOG_INFO("Received request: %s asn %02x.%08"PRIx32" ",
   data,  
   tsch_current_asn.ms1b, tsch_current_asn.ls4b);
   
@@ -69,9 +84,33 @@ udp_rx_callback(struct simple_udp_connection *c,
   LOG_INFO_("\n");
 
 #if WITH_SERVER_REPLY
-  /* send back the same string to the client as an echo reply */
-  LOG_INFO("Sending response.\n");
-  simple_udp_sendto(&udp_conn, data, datalen, sender_addr);
+  
+  int rss;
+  int pktnum;
+  char mode[10];
+  sscanf((char *)data, "relayed %s %d %d",mode, &pktnum, &rss);
+  LOG_INFO("Mode: %s pktnum %d rss %d\n",mode,pktnum,rss);
+  if(strcmp(mode, "Unicast") == 0 || !strstr((char *)data, "relayed")){
+    LOG_INFO("Responding unicast\n");
+    simple_udp_sendto(&udp_conn, data, datalen, sender_addr);
+  }
+  else{
+    if (flag==false){ // first packet
+      ctimer_set(&ct, CLOCK_SECOND / 10, timer_events, NULL);
+    }
+    flag=true;
+
+    if(rss > max_rss){
+      max_rss = rss;
+      uip_ipaddr_copy(best_addr,sender_addr);
+      LOG_INFO_("settign best to: ");
+      LOG_INFO_6ADDR(best_addr);
+      LOG_INFO_("\n");
+
+    }
+  }
+  
+
 #endif /* WITH_SERVER_REPLY */
 }
 

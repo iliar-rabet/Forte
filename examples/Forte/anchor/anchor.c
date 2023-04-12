@@ -31,8 +31,9 @@
 
 static struct simple_udp_connection server_udp, mn_udp;
 static uip_ipaddr_t dest_ipaddr;
-// static char mobile_ip_addr[21];
-// static int handoff_flag=0;
+static char mobile_str_addr[21];
+static uip_ipaddr_t *mn_addr;
+
 /*--------------------------Linked List -- LL -------------------------------*/
 struct node {
   char *mob_addr;
@@ -123,12 +124,13 @@ mn_callback(struct simple_udp_connection *c,
          uint16_t datalen)
 {
   char str[40];
-  static char mobile_ip_addr[21];
-  memset(mobile_ip_addr, '\0', 21 * sizeof(char));
-  uiplib_ipaddr_snprint(mobile_ip_addr, 21, sender_addr);
+  uip_ipaddr_copy(mn_addr,sender_addr);
+
+  memset(mobile_str_addr, '\0', 21 * sizeof(char));
+  uiplib_ipaddr_snprint(mobile_str_addr, 21, sender_addr);
 
   int16_t packet_rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI);
-  sprintf(str, "%s %d", data, packet_rssi);
+  sprintf(str, "relayed %s %d from %s", data, packet_rssi,mobile_str_addr);
   
   LOG_INFO("Relaying: %s asn %02x.%08"PRIx32"\n",
   str,  
@@ -151,6 +153,13 @@ server_callback(struct simple_udp_connection *c,
          const uint8_t *data,
          uint16_t datalen)
 {
+  simple_udp_sendto(&server_udp, (char *)data, strlen((char *)data), mn_addr);
+  LOG_INFO("Down-Relaying: %s asn %02x.%08"PRIx32"\n",
+  data,  
+  tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+
+}
+
   // char mn[21];
 
   // sprintf(mn,"%.20s",data+4);
@@ -170,7 +179,6 @@ server_callback(struct simple_udp_connection *c,
   //   LL_del_srch_node(1, &LL_head, (const char *) mn);
   // }
   // return;
-}
 
 // static void
 // data_relay(struct simple_udp_connection *c,
@@ -241,7 +249,7 @@ PROCESS_THREAD(sdmob_anchor_node_process, ev, data)
 
       if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
 
-        sprintf(x,"KA %d",tx_count);
+        sprintf(x,"KA %d ",tx_count);
         simple_udp_sendto(&server_udp, x, strlen(x), &dest_ipaddr);
         tx_count++;
         LOG_INFO("Done Sending: %s\n",x);

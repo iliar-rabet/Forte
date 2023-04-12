@@ -16,38 +16,38 @@ def Proecess(fileServer,fileMN,plt,marker):
 
     # Strips the newline character
     for line in fileMN:
-        if "Done Sending:" in line:
+        if "Start Sending: Unicast" in line or "Start Sending: Broadcast" in line:
             pkt = packet()
-            pkt_line=line.split("Done Sending: ")[1]
+            pkt_line=line.split("Start Sending: ")[1]
             pkt.cast = pkt_line.split(' ')[0]
             pkt.num = pkt_line.split(' ')[1].split('\n')[0]
-            tsch_line=next(fileMN) 
-            if "{" not in tsch_line:
-                tsch_line = next(fileMN) 
-            # print("pkt_line:"+pkt_line)
-            # print("tsch_line:"+tsch_line)
-            result=tsch_line.split('{')[1].split('}')[0]
-            pkt.tx_time = result.split(' ')[1]
-            # if result is None:
-            #     print("None")
-            # else:
-            #     print("tx:{} {}".format(pkt_line, result))
+
+            # if "{" not in tsch_line:
+            #     tsch_line = next(fileMN) 
+            # # print("pkt_line:"+pkt_line)
+            # # print("tsch_line:"+tsch_line)
+            # result=tsch_line.split('{')[1].split('}')[0]
+            # pkt.tx_time = result.split(' ')[1]
+            pkt.tx_time = pkt_line.split(' ')[3].split('\n')[0]
+            if pkt.tx_time is None:
+                print("None")
+            else:
+                print("tx:{} {}".format(pkt_line, pkt.tx_time))
             # print("Line: {}".format(pkt_line))
             sent_packets.append(pkt)
 
     for line in fileServer:
-        if "Received request" in line:
-            pkt_line=line.split("\'")[1]
-            num = pkt_line.split(' ')[1]
-            # print(num)
-            tsch_line=next(fileServer) 
-            result=tsch_line.split('{')[1].split('}')[0]
-            
+        if "Received request: Broadcast" in line or "Received request: Unicast" in line :
+            pkt_line=line.split("Received request:")[1]
+            num = pkt_line.split(' ')[2]
+            print(num)
+            # tsch_line=next(fileServer) 
+            # result=tsch_line.split('{')[1].split('}')[0]
             
             for x in sent_packets:
                 if x.num == num:
-                    x.rx_time = result.split(' ')[1]
-                    # print(result.split(' '))
+                    x.rx_time = pkt_line.split(' ')[4]
+                    print(pkt_line.split(' '))
 
             # if result is None:
             #     print("None")
@@ -71,9 +71,10 @@ def Proecess(fileServer,fileMN,plt,marker):
     return sent_packets,pdr
     
 
-paths = ["Forte-41", "Forte-31" ]
+paths = [ "orchestra-lowpower" ]
 marker=8
 plt.figure(figsize=(12,6))
+plt.ylim(0,200)
 pdrs=[]
 
 for path in paths:
@@ -97,7 +98,7 @@ plt.ylabel('Packet Delivery Ratio (%)')
 plt.ylim(0.9,1.0)
 
 
-for path in paths:
+for path,pdr in zip(paths,pdrs):
     plt.bar(path,pdr)
 plt.show()
 

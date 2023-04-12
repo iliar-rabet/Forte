@@ -37,6 +37,7 @@
 #define SERVER_PORT	4567
 
 #undef FORTE
+// #define FORTE 1
 // #include "arch/platform/cc26x0-cc13x0/sensortag/mpu-9250-sensor.c"
 /*---------------------------------------------------------------------------*/
 #define CC26XX_DEMO_LOOP_INTERVAL       (CLOCK_SECOND / 64)
@@ -136,7 +137,10 @@ downward_callback(struct simple_udp_connection *c,
          const uint8_t *data,
          uint16_t datalen)
 {
-  LOG_INFO("Received downward\n");
+  LOG_INFO("Received downward: %s asn %02x.%08"PRIx32" ",
+  data,  
+  tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+
 
 }
 
@@ -215,10 +219,11 @@ PROCESS_THREAD(udp_client_process, ev, data)
     #endif
 
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
-  
-    LOG_INFO("Start Sending: %s asn %02x.%08"PRIx32"\n",
-    str,  
-    tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+
+    if(tx_count > 0){
+      LOG_INFO("Start Sending: %d asn %02x.%08"PRIx32"\n",
+      tx_count, tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+    }
 
     if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
       #ifdef FORTE
@@ -226,22 +231,25 @@ PROCESS_THREAD(udp_client_process, ev, data)
       // if(tx_count%2 == 1){ 
       #endif
         sprintf(str,"Unicast %d",tx_count);
+        LOG_INFO("%s\n",str);
         simple_udp_sendto(&server_conn, str, strlen(str), &dest_ipaddr);
       #ifdef FORTE
       }
       else{
         uip_create_linklocal_allnodes_mcast(&dest_ipaddr);
         sprintf(str,"Broadcast %d",tx_count);
+        LOG_INFO("%s\n",str);
         simple_udp_sendto(&anchor_conn, str, strlen(str), &dest_ipaddr);
       }
       #endif
-      tx_count++;
+      
       // LOG_INFO("Done Sending: %s\n",str);
 
     } else {
       LOG_INFO("Not reachable yet\n");
     }
-
+    
+    tx_count++;
     /* Add some jitter */
     etimer_set(&periodic_timer, CLOCK_SECOND*2);
 }
