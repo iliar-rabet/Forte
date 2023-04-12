@@ -1,6 +1,6 @@
 import re
 import matplotlib.pyplot as plt
-
+import numpy as np
 
 class packet:
     num=0
@@ -10,8 +10,8 @@ class packet:
     delay=-1
 
 def Proecess(fileServer,fileMN,plt,marker):
-    fileServer = iter(fileServer)
-    fileMN = iter(fileMN)
+    # fileServer = iter(fileServer)
+    # fileMN = iter(fileMN)
     sent_packets = []
 
     # Strips the newline character
@@ -40,7 +40,7 @@ def Proecess(fileServer,fileMN,plt,marker):
         if "Received request: Broadcast" in line or "Received request: Unicast" in line :
             pkt_line=line.split("Received request:")[1]
             num = pkt_line.split(' ')[2]
-            print(num)
+            # print(num)
             # tsch_line=next(fileServer) 
             # result=tsch_line.split('{')[1].split('}')[0]
             
@@ -79,14 +79,15 @@ pdrs=[]
 
 for path in paths:
     marker += 1
-    fileServer = open(path+'/server.log', 'r')
-    fileMN = open(path+'/MPU.log', 'r')
+    fileServer = open(path+'/server.log', 'r', encoding = 'unicode_escape')
+    fileMN = open(path+'/MPU.log', 'r',encoding = 'unicode_escape')
     sent_packets, pdr = Proecess(fileServer,fileMN,plt,marker)
     x=[pkt.num for pkt in sent_packets]
     y=[pkt.delay for pkt in sent_packets]
     plt.plot(x, y,marker=marker, label=path)
     pdrs.append(pdr)
 
+plt.xticks(np.arange(0, 150, 10)) 
 plt.xlabel('Time (s)')
 plt.ylabel('Delay (ms)')
 plt.legend()
@@ -95,7 +96,7 @@ plt.show()
 
 plt.xlabel('Protocol')
 plt.ylabel('Packet Delivery Ratio (%)')
-plt.ylim(0.9,1.0)
+plt.ylim(0.0,1.0)
 
 
 for path,pdr in zip(paths,pdrs):

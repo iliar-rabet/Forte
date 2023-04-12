@@ -221,30 +221,39 @@ PROCESS_THREAD(udp_client_process, ev, data)
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
 
     if(tx_count > 0){
-      LOG_INFO("Start Sending: %d asn %02x.%08"PRIx32"\n",
-      tx_count, tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+      #ifdef FORTE
+      if(state == 0 || state == 1){
+        LOG_INFO("Start Sending: Unicast %d asn %02x.%08"PRIx32"\n",
+        tx_count, tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+      }
+      if(state == 2 || state == 3){
+        LOG_INFO("Start Sending: Broadcast %d asn %02x.%08"PRIx32"\n",
+        tx_count, tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+      }
+      #else
+      LOG_INFO("Start Sending: Unicast %d asn %02x.%08"PRIx32"\n",
+        tx_count, tsch_current_asn.ms1b, tsch_current_asn.ls4b);
+      #endif
+      
+
     }
 
     if(NETSTACK_ROUTING.node_is_reachable() && NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
       #ifdef FORTE
       if(state == 0 || state == 1){
-      // if(tx_count%2 == 1){ 
       #endif
         sprintf(str,"Unicast %d",tx_count);
-        LOG_INFO("%s\n",str);
+        // LOG_INFO("%s\n",str);
         simple_udp_sendto(&server_conn, str, strlen(str), &dest_ipaddr);
       #ifdef FORTE
       }
       else{
         uip_create_linklocal_allnodes_mcast(&dest_ipaddr);
         sprintf(str,"Broadcast %d",tx_count);
-        LOG_INFO("%s\n",str);
+        // LOG_INFO("%s\n",str);
         simple_udp_sendto(&anchor_conn, str, strlen(str), &dest_ipaddr);
       }
       #endif
-      
-      // LOG_INFO("Done Sending: %s\n",str);
-
     } else {
       LOG_INFO("Not reachable yet\n");
     }
