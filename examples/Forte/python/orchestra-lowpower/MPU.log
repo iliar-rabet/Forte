@@ -1,833 +1,629 @@
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 18.24 14.99 2.68 0.42 0.13 1.06  asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 17.20 14.68 2.71 0.38 0.13 1.10  asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 18.18 15.01 1.90 0.41 0.10 1.08  asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 18.12 13.89 3.23 0.41 0.07 1.14  asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 18.51 12.10 2.84 0.44 0.14 1.11  asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 18.68 14.41 3.25 0.39 0.09 1.11  asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 16.48 15.77 1.91 0.39 0.09 1.03  asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 16.38 14.64 2.11 0.36 0.15 1.05  asn 00.00000000
 [INFO: App       ] Not reachable yet
 [INFO: RPL       ] sending a DIS to ff02::1a
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ][INFO: App       ] Start Sending: 18 asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 19 asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 20 asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 21 asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 22 asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 23 asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 24 asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 25 asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.00000000
+[INFO: App       ] Start Sending: 26 asn 00.00000000
 [INFO: App       ] Not reachable yet
-[INFO: App       ] Start Sending:  asn 00.0000a708
-[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending:  asn 00.0000a7d0
-[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending:  asn 00.0000a89a
-[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending:  asn 00.0000a962
+[INFO: App       ] Start Sending: 27 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 28 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 29 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 30 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 31 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 32 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 33 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 34 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 35 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 36 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 37 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 38 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: RPL       ] sending a DIS to ff02::1a
+[INFO: App       ] Start Sending: 39 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 40 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 41 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 42 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 43 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 44 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 45 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 46 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 47 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 48 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: RPL       ] sending a DIS to ff02::1a
+[INFO: App       ] Start Sending: 49 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 50 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 51 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 52 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 53 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 54 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 55 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 56 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 57 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 58 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 59 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: RPL       ] sending a DIS to ff02::1a
+[INFO: App       ] Start Sending: 60 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 61 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 62 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 63 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 64 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 65 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 66 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 67 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 68 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 69 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 70 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 71 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 72 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 73 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 74 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 75 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 76 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 77 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 78 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 79 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 80 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: RPL       ] sending a DIS to ff02::1a
+[INFO: App       ] Start Sending: 81 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 82 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 83 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 84 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 85 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 86 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 87 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 88 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 89 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 90 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 91 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 92 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 93 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 94 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 95 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 96 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 97 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 98 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 99 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: RPL       ] sending a DIS to ff02::1a
+[INFO: App       ] Start Sending: 100 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 101 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 102 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 103 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 104 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 105 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 106 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 107 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 108 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 109 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 110 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 111 asn 00.00000000
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 112 asn 00.000067ba
 [INFO: App       ] Not reachable yet[INFO: RPL       ] sending a DIS to ff02::1a
-[INFO: TSCH-LOG  ] {asn 00.0000a9ed link  2  41   0  0  0 ch 25} bc-1-0 tx LL-0485->LL-NULL, len  24, seq 237, st 0  1ן¿½ן¿½[INFO: App       ] Start Sending:  asn 00.0000aa2b
-[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending:  asn 00.0000aaf4
-[INFO: App       ] Not reachable yet[INFO: TSCH-LOG  ] {asn 00.0000ab2f link  1  17   0 14  3 ch 26} uc-1-0 tx LL-0485->LL-22eb, len  21, seq  74, st 2  1ן¿½ן¿½[INFO: TSCH-LOG  ] {asn 00.0000ab40 link  1  17   0 14  3 ch 20} uc-1-0 tx LL-0485->LL-22eb, len  21, seq  74, st 2  2ן¿½ן¿½[INFO: TSCH-LOG  ] {asn 00.0000ab51 link  1  17   0 14  3 ch 15} uc-1-0 tx LL-0485->LL-22eb, len  21, seq  74, st 2  3ן¿½ן¿½[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3641:b95d:22eb, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 290
+[INFO: TSCH-LOG  ] {asn 00.0000681a link  2  41   0  0  0 ch 26} bc-1-0 tx LL-0485->LL-NULL, len  24, seq 120, st 0  1תר[INFO: App       ] Start Sending: 113 asn 00.00006883
+[INFO: App       ] Not reachable yet[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
 [INFO: RPL       ] reset MRHOF
 [INFO: RPL       ] initialized DAG with instance ID 0, DAG ID fd00::f6ce:3623:9010:1fdc, prexix fd00::/64, rank 65535
 [WARN: RPL       ] just joined, no parent yet, setting timer for leaving
 [INFO: RPL       ] refreshing lifetime
-[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:3641:b95d:22eb
-[INFO: TSCH-LOG  ] {asn 00.0000ab5e link  2  41   0  0  0 ch 26} bc-1-0 rx LL-22eb->LL-NULL, len  94, seq   0, edr  19, dr -19
-[INFO: TSCH-LOG  ] {asn 00.0000ab62 link  1  17   0 14  3 ch 25} uc-1-0 tx LL-0485->LL-22eb, len  21, seq  74, st 2  4[INFO: TSCH-LOG  ] {asn 00.0000ab84 link  1  17   0 14  3 ch 20} uc-1-0 tx LL-0485->LL-22eb, len  21, seq  74, st 2  5[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
-[INFO: TSCH-LOG  ] {asn 00.0000ab87 link  2  41   0  0  0 ch 20} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq   0, edr   2[INFO: TSCH-LOG  ] {asn 00.0000ab95 link  1  17   0 14  3 ch 15} uc-1-0 tx LL-0485->LL-22eb, len  21, seq  74, st 2  6[INFO: TSCH-LOG  ] {asn 00.0000aba6 link  1  17   0 14  3 ch 25} uc-1-0 tx LL-0485->LL-22eb, len  21, seq  74, st 2  7[INFO: App       ] Start Sending:  asn 00.0000abbc
-[INFO: App       ] Not reachable yet[INFO: TSCH-LOG  ] {asn 00.0000abc8 link  1  17   0 14  3 ch 20} uc-1-0 tx LL-0485->LL-22eb, len  21, seq  74, st 2  8
 [INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:3623:9010:1fdc
-[INFO: RPL       ] parent switch: (NULL IP addr) -> fe80::f6ce:3641:b95d:22eb
-[WARN: RPL       ] found parent: fe80::f6ce:3641:b95d:22eb, staying in DAG
-[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: joined, MOP 1 OCP 1 rank 891 max-rank 1915, dioint 0, nbr count 2 (Parent switch)
-[INFO: RPL       ] nbr: fe80::f6ce:3641:b95d:22eb  290,   601 =>   891 --  8   afp (last tx 0 min ago)
-[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,   174 =>   302 --  0 rba   (no tx, better since 0 min)
-[INFO: RPL       ] nbr: end of list[INFO: App       ] Start Sending:  asn 00.0000ac85
-[INFO: App       ] Not reachable yet[INFO: RPL       ] sending a unicast-DIO with rank 891 to fe80::f6ce:3623:9010:1fdc
-[INFO: TSCH-LOG  ] {asn 00.0000ad2f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len 100, seq  75, st 0  1
+[INFO: TSCH-LOG  ] {asn 00.00006910 link  2  41   0  0  0 ch 15} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq   0, edr   7, dr  -7
+[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::f6ce:3623:9010:1fdc
+[INFO: TSCH-LOG  ] {asn 00.00006940 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len 100, seq 123, st 0  1, dr  -6
 [INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:3623:9010:1fdc
-[INFO: App       ] Start Sending:  asn 00.0000ad4e
-[INFO: App       ] Not reachable yet[INFO: RPL       ] sending a DAO seqno 241, tx count 1, lifetime 30, prefix fd00::212:4b00:a63:485 to fd00::f6ce:3623:9010:1fdc, parent fe80::f6ce:3641:b95d:22eb
-[INFO: TSCH-LOG  ] {asn 00.0000adb5 link  1  17   0 14  3 ch 15} uc-1-0 tx LL-0485->LL-22eb, len  91, seq  76, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000adc6 link  1  17   0 14  3 ch 25} uc-1-0 tx LL-0485->LL-22eb, len  91, seq  76, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000ade8 link  1  17   0 14  3 ch 20} uc-1-0 tx LL-0485->LL-22eb, len  91, seq  76, st 2  3[INFO: TSCH-LOG  ] {asn 00.0000ae0a link  1  17   0 14  3 ch 25} uc-1-0 tx LL-0485->LL-22eb, len  91, seq  76, st 2  4[INFO: App       ] Start Sending:  asn 00.0000ae17
-[INFO: App       ] Not reachable yet[INFO: TSCH-LOG  ] {asn 00.0000ae1b link  1  17   0 14  3 ch 26} uc-1-0 tx LL-0485->LL-22eb, len  91, seq  76, st 2  5[INFO: TSCH-LOG  ] {asn 00.0000ae35 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 238, st 0  1[INFO: TSCH-LOG  ] {asn 00.0000ae3d link  1  17   0 14  3 ch 15} uc-1-0 tx LL-0485->LL-22eb, len  91, seq  76, st 2  6[INFO: TSCH-LOG  ] {asn 00.0000ae4e link  1  17   0 14  3 ch 25} uc-1-0 tx LL-0485->LL-22eb, len  91, seq  76, st 2  7[INFO: TSCH-LOG  ] {asn 00.0000ae5f link  1  17   0 14  3 ch 26} uc-1-0 tx LL-0485->LL-22eb, len  91, seq  76, st 2  8
-[INFO: RPL       ] sending a unicast-DIO with rank 1086 to fe80::f6ce:3623:9010:1fdc
-[INFO: TSCH-LOG  ] {asn 00.0000aec7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len 100, seq  77, st 0  1
+[INFO: App       ] Start Sending: 114 asn 00.0000694b
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 115 asn 00.00006a14
+[INFO: App       ] Not reachable yet[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::f6ce:3623:9010:1fdc
+[INFO: TSCH-LOG  ] {asn 00.00006a61 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len 100, seq 124, st 0  1, dr  -6
 [INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:3623:9010:1fdc
-[INFO: App       ] Start Sending:  asn 00.0000aedf
-[INFO: App       ] Not reachable yet[INFO: RPL       ] sending a DAO seqno 241, tx count 2, lifetime 30, prefix fd00::212:4b00:a63:485 to fd00::f6ce:3623:9010:1fdc, parent fe80::f6ce:3641:b95d:22eb
-[INFO: TSCH-LOG  ] {asn 00.0000af3c link  1  17   0 14  3 ch 20} drift -30 ppm (min/max delta seen: -19/0)
-[INFO: TSCH-LOG  ] {asn 00.0000af3c link  1  17   0 14  3 ch 20} uc-1-0 tx LL-0485->LL-22eb, len  91, seq  78, st 0  1, dr -20
-[INFO: App       ] Start Sending:  asn 00.0000afa8
-[INFO: App       ] Not reachable yet[INFO: RPL       ] received a DAO-ACK with seqno 241 (241 241) and status 0 from fd00::f6ce:3623:9010:1fdc
-[INFO: TSCH-LOG  ] {asn 00.0000afb3 link  1  17   0 14  3 ch 26} uc-1-0 rx LL-22eb->LL-0485, len  58, seq  57, edr  -4, dr   4
-[INFO: RPL       ] sending a unicast-DIO with rank 1019 to fe80::f6ce:3623:9010:1fdc
-[INFO: TSCH-LOG  ] {asn 00.0000b00a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len 100, seq  79, st 0  1
+[INFO: App       ] Start Sending: 116 asn 00.00006add
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 117 asn 00.00006ba6
+[INFO: App       ] Not reachable yet[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::f6ce:3623:9010:1fdc
+[INFO: TSCH-LOG  ] {asn 00.00006be8 link  1  17   0 16  2 ch 26} drift -41 ppm (min/max delta seen: -7/0)
+[INFO: TSCH-LOG  ] {asn 00.00006be8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len 100, seq 125, st 0  1, dr  -8
 [INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:3623:9010:1fdc
-[INFO: TSCH-LOG  ] {asn 00.0000b028 link  0 397   0 235  1 ch 25} bc-0-0 rx LL-22eb->LL-NULL, len  35, seq  57, edr   1, dr  -1
-[INFO: App       ] Start Sending:  asn 00.0000b071
-[INFO: TSCH-LOG  ] {asn 00.0000b07f link  1  17   0 14  3 ch 26} uc-1-0 tx LL-0485->LL-22eb, len  56, seq  80, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000b090 link  1  17   0 14  3 ch 20} uc-1-0 tx LL-0485->LL-22eb, len  56, seq  80, st 0  2, dr  -4
-[INFO: RPL       ] sending a unicast-DIO with rank 971 to fe80::f6ce:3623:9010:1fdc
-[INFO: TSCH-LOG  ] {asn 00.0000b11a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len 100, seq  81, st 0  1
-[INFO: RPL       ] parent switch: fe80::f6ce:3641:b95d:22eb -> fe80::f6ce:3623:9010:1fdc
-[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: reachable, MOP 1 OCP 1 rank 272 max-rank 1296, dioint 12, nbr count 2 (Parent switch)
-[INFO: RPL       ] nbr: fe80::f6ce:3641:b95d:22eb  290,   681 =>   971 -- 16   af  (last tx 0 min ago)
-[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,   144 =>   272 --  4 rbafp (last tx 0 min ago)
-[INFO: RPL       ] nbr: end of list[INFO: RPL       ] sending a multicast-DIO with rank 272 to ff02::1a
-[INFO: App       ] Start Sending: Unicast 1 asn 00.0000b13a
-[INFO: TSCH-LOG  ] {asn 00.0000b13c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  82, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000b14d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  82, st 0  2, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000b174 link  2  41   0  0  0 ch 15} bc-1-0 tx LL-0485->LL-NULL, len  94, seq 239, st 0  1[INFO: TSCH-LOG  ] {asn 00.0000b1a6 link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  57, edr  -4, dr   4
-[INFO: App       ] Start Sending: Unicast 2 asn 00.0000b203
-[INFO: TSCH-LOG  ] {asn 00.0000b208 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  83, st 0  1, dr  -6
-[INFO: RPL       ] sending a DAO seqno 242, tx count 1, lifetime 30, prefix fd00::212:4b00:a63:485 to fd00::f6ce:3623:9010:1fdc, parent fe80::f6ce:3623:9010:1fdc
-[INFO: TSCH-LOG  ] {asn 00.0000b2a1 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  83, seq  84, st 0  1, dr  -4
-[INFO: RPL       ] received a DAO-ACK with seqno 242 (242 242) and status 0 from fd00::f6ce:3623:9010:1fdc
-[INFO: TSCH-LOG  ] {asn 00.0000b2b0 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-1fdc->LL-0485, len  41, seq  19, edr  -6, dr   6
+[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
+[INFO: TSCH-LOG  ] {asn 00.00006c6d link  2  41   0  0  0 ch 25} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq   0, edr  -8, dr   8
+[INFO: App       ] Start Sending: 118 asn 00.00006c71
+[INFO: App       ] Not reachable yet[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::f6ce:3623:9010:1fdc
+[INFO: TSCH-LOG  ] {asn 00.00006c81 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len 100, seq 126, st 0  1, dr  -6
+[INFO: RPL       ] parent switch: (NULL IP addr) -> fe80::f6ce:3623:9010:1fdc
+[WARN: RPL       ] found parent: fe80::f6ce:3623:9010:1fdc, staying in DAG
+[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: joined, MOP 1 OCP 1 rank 260 max-rank 1284, dioint 0, nbr count 1 (Parent switch)
+[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,   132 =>   260 --  4 rbafp (last tx 0 min ago)
+[INFO: RPL       ] nbr: end of list[INFO: App       ] Start Sending: 119 asn 00.00006d3a
+[INFO: App       ] Not reachable yet[INFO: TSCH-LOG  ] {asn 00.00006d6a link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq   0, edr  -8, dr   8
+[INFO: RPL       ] sending a DAO seqno 241, tx count 1, lifetime 30, prefix fd00::212:4b00:a63:485 to fd00::f6ce:3623:9010:1fdc, parent fe80::f6ce:3623:9010:1fdc
+[INFO: TSCH-LOG  ] {asn 00.00006d6f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  83, seq 127, st 0  1, dr  -4
+[INFO: RPL       ] received a DAO-ACK with seqno 241 (241 241) and status 0 from fd00::f6ce:3623:9010:1fdc
+[INFO: TSCH-LOG  ] {asn 00.00006d7e link  1  17   0 14  3 ch 25} drift -22 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.00006d7e link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  41, seq 108, edr  -3, dr   3
+[INFO: App       ] Start Sending: 120 asn 00.00006e03
+[INFO: App       ] Unicast 120
+[INFO: TSCH-LOG  ] {asn 00.00006e08 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 128, st 2  1[INFO: TSCH-LOG  ] {asn 00.00006e19 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 128, st 0  2, dr  -4
+[INFO: App       ] Received downward: Unicast 120 asn 00.00006e29 [INFO: TSCH-LOG  ] {asn 00.00006e28 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 109, edr  -6, dr   6
+[INFO: RPL       ] sending a multicast-DIO with rank 271 to ff02::1a
+[INFO: TSCH-LOG  ] {asn 00.00006eab link  2  41   0  0  0 ch 20} bc-1-0 tx LL-0485->LL-NULL, len  94, seq 121, st 0  1[INFO: App       ] Start Sending: 121 asn 00.00006ecc
+[INFO: App       ] Unicast 121
+[INFO: TSCH-LOG  ] {asn 00.00006ed4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 129, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 121 asn 00.00006ee4 [INFO: TSCH-LOG  ] {asn 00.00006ee3 link  1  17   0 14  3 ch 26} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 110, edr  -5, dr   5
+[INFO: App       ] Start Sending: 122 asn 00.00006f95
+[INFO: App       ] Unicast 122
+[INFO: TSCH-LOG  ] {asn 00.00006fa0 link  1  17   0 16  2 ch 26} drift -27 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.00006fa0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 130, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 122 asn 00.00006fb0 [INFO: TSCH-LOG  ] {asn 00.00006faf link  1  17   0 14  3 ch 26} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 111, edr  -6, dr   6
+[INFO: TSCH-LOG  ] {asn 00.0000702d link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 122, st 0  1[INFO: App       ] Start Sending: 123 asn 00.0000705e
+[INFO: App       ] Unicast 123
+[INFO: TSCH-LOG  ] {asn 00.0000706c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 131, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 123 asn 00.0000707c [INFO: TSCH-LOG  ] {asn 00.0000707b link  1  17   0 14  3 ch 26} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 112, edr  -5, dr   5
+[INFO: TSCH-LOG  ] {asn 00.00007084 link  0 397   0 220  1 ch 25} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq 112, edr  -1, dr   1
 [INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
 [INFO: RPL       ] refreshing lifetime
-[INFO: TSCH-LOG  ] {asn 00.0000b2bc link  2  41   0  0  0 ch 15} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq  19, edr   0, dr   0
-[INFO: App       ] Start Sending: Unicast 3 asn 00.0000b2cb
-[INFO: TSCH-LOG  ] {asn 00.0000b2d4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  85, st 0  1, dr  -6
-[INFO: RPL       ] sending a multicast-DIO with rank 274 to ff02::1a
-[INFO: TSCH-LOG  ] {asn 00.0000b360 link  2  41   0  0  0 ch 15} bc-1-0 tx LL-0485->LL-NULL, len  94, seq 241, st 0  1[INFO: App       ] Start Sending: Unicast 4 asn 00.0000b393
-[INFO: TSCH-LOG  ] {asn 00.0000b3a0 link  1  17   0 16  2 ch 26} drift -20 ppm (min/max delta seen: -20/6)
-[INFO: TSCH-LOG  ] {asn 00.0000b3a0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  86, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 5 asn 00.0000b45b
-[INFO: TSCH-LOG  ] {asn 00.0000b45b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  87, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000b469 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 240, st 0  1[INFO: App       ] Start Sending: Unicast 6 asn 00.0000b523
-[INFO: TSCH-LOG  ] {asn 00.0000b527 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  88, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 7 asn 00.0000b5eb
-[INFO: TSCH-LOG  ] {asn 00.0000b5f3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  89, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000b5f6 link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 242, st 0  1[INFO: TSCH-LOG  ] {asn 00.0000b604 link  1  17   0 16  2 ch 26} drift -25 ppm (min/max delta seen: -20/6)
-[INFO: TSCH-LOG  ] {asn 00.0000b604 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  89, st 0  2, dr  -4
-[INFO: App       ] Start Sending: Unicast 8 asn 00.0000b6b3
-[INFO: TSCH-LOG  ] {asn 00.0000b6bf link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  48, seq  90, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 9 asn 00.0000b77b
-[INFO: TSCH-LOG  ] {asn 00.0000b78b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq  91, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000b7da link  0 397   0 220  1 ch 20} drift -18 ppm (min/max delta seen: -20/6)
-[INFO: TSCH-LOG  ] {asn 00.0000b7da link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -6, dr   6
-[INFO: App       ] Start Sending: Unicast 10 asn 00.0000b843
-[INFO: TSCH-LOG  ] {asn 00.0000b846 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq  92, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 11 asn 00.0000b90b
-[INFO: TSCH-LOG  ] {asn 00.0000b912 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq  93, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 12 asn 00.0000b9d3
-[INFO: TSCH-LOG  ] {asn 00.0000b9de link  1  17   0 16  2 ch 15} drift -26 ppm (min/max delta seen: -20/6)
-[INFO: TSCH-LOG  ] {asn 00.0000b9de link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq  94, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 13 asn 00.0000ba9b
-[INFO: TSCH-LOG  ] {asn 00.0000baaa link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq  95, st 0  1, dr   2
-[INFO: RPL       ] sending a multicast-DIO with rank 266 to ff02::1a
-[INFO: TSCH-LOG  ] {asn 00.0000bae7 link  2  41   0  0  0 ch 20} bc-1-0 tx LL-0485->LL-NULL, len  94, seq 243, st 0  1
-[INFO: App       ] Start Sending: Unicast 14 asn 00.0000bb63
-[INFO: TSCH-LOG  ] {asn 00.0000bb65 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq  96, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.0000bc2a link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 244, st 0  1
-[INFO: App       ] Start Sending: Unicast 15 asn 00.0000bc2c
-[INFO: TSCH-LOG  ] {asn 00.0000bc31 link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/6)
-[INFO: TSCH-LOG  ] {asn 00.0000bc31 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq  97, st 0  1, dr  -2
-[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
+[INFO: TSCH-LOG  ] {asn 00.000070e9 link  2  41   0  0  0 ch 25} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq 112, edr   2, dr  -2
+[INFO: App       ] Start Sending: 124 asn 00.00007127
+[INFO: App       ] Unicast 124
+[INFO: TSCH-LOG  ] {asn 00.00007127 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 132, st 0  1, dr  -4
+[INFO: App       ] Received downward: Unicast 124 asn 00.00007137 [INFO: TSCH-LOG  ] {asn 00.00007136 link  1  17   0 14  3 ch 25} drift -22 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.00007136 link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 113, edr  -6, dr   6
+[INFO: RPL       ] sending a multicast-DIO with rank 264 to ff02::1a
+[INFO: TSCH-LOG  ] {asn 00.00007164 link  2  41   0  0  0 ch 15} bc-1-0 tx LL-0485->LL-NULL, len  94, seq 123, st 0  1[INFO: App       ] Start Sending: 125 asn 00.000071ef
+[INFO: App       ] Unicast 125
+[INFO: TSCH-LOG  ] {asn 00.000071f3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 133, st 0  1, dr  -8
+[INFO: App       ] Received downward: Unicast 125 asn 00.00007203 [INFO: TSCH-LOG  ] {asn 00.00007202 link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 114, edr  -8, dr   8
+[INFO: TSCH-LOG  ] {asn 00.00007213 link  1  17   0 14  3 ch 26} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 114, edr   1, dr  -1
+[INFO: App       ] Start Sending: 126 asn 00.000072b8
+[INFO: App       ] Unicast 126
+[INFO: TSCH-LOG  ] {asn 00.000072bf link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 134, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 126 asn 00.000072cf [INFO: TSCH-LOG  ] {asn 00.000072ce link  1  17   0 14  3 ch 25} drift -23 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.000072ce link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 115, edr  -5, dr   5
+[INFO: TSCH-LOG  ] {asn 00.00007347 link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 124, st 0  1[INFO: App       ] Start Sending: 127 asn 00.00007381
+[INFO: App       ] Unicast 127
+[INFO: TSCH-LOG  ] {asn 00.0000738b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 135, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 127 asn 00.0000739b [INFO: TSCH-LOG  ] {asn 00.0000739a link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 116, edr  -8, dr   8
+[INFO: App       ] Start Sending: 128 asn 00.0000744a
+[INFO: App       ] Unicast 128
+[INFO: TSCH-LOG  ] {asn 00.00007457 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 136, st 0  1, dr  -8
+[INFO: App       ] Received downward: Unicast 128 asn 00.00007467 [INFO: TSCH-LOG  ] {asn 00.00007466 link  1  17   0 14  3 ch 25} drift -24 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.00007466 link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 117, edr  -5, dr   5
+[INFO: App       ] Start Sending: 129 asn 00.00007512
+[INFO: App       ] Unicast 129
+[INFO: TSCH-LOG  ] {asn 00.00007523 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 137, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000752b link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq 117, edr  -1, dr   1
+[INFO: TSCH-LOG  ] {asn 00.00007534 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 137, st 2  2[INFO: TSCH-LOG  ] {asn 00.00007545 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 137, st 0  3, dr  -6
+[INFO: App       ] Received downward: Unicast 129 asn 00.00007555 [INFO: TSCH-LOG  ] {asn 00.00007554 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 118, edr  -5, dr   5
+[INFO: App       ] Start Sending: 130 asn 00.000075db
+[INFO: App       ] Unicast 130
+[INFO: TSCH-LOG  ] {asn 00.000075de link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 138, st 2  1[INFO: TSCH-LOG  ] {asn 00.000075ef link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 138, st 0  2, dr  -6
+[INFO: App       ] Received downward: Unicast 130 asn 00.000075ff [INFO: TSCH-LOG  ] {asn 00.000075fe link  1  17   0 14  3 ch 25} drift -23 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.000075fe link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 119, edr  -6, dr   6
+[INFO: App       ] Start Sending: 131 asn 00.000076a4
+[INFO: App       ] Unicast 131
+[INFO: TSCH-LOG  ] {asn 00.000076aa link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 139, st 0  1, dr  -4
+[INFO: App       ] Received downward: Unicast 131 asn 00.000076ba [INFO: TSCH-LOG  ] {asn 00.000076b9 link  1  17   0 14  3 ch 15} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 120, edr  -5, dr   5
+[INFO: App       ] Start Sending: 132 asn 00.0000776d
+[INFO: App       ] Unicast 132
+[INFO: TSCH-LOG  ] {asn 00.00007776 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 140, st 0  1, dr  -8
+[INFO: App       ] Received downward: Unicast 132 asn 00.00007786 [INFO: TSCH-LOG  ] {asn 00.00007785 link  1  17   0 14  3 ch 15} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 121, edr  -5, dr   5
+[INFO: TSCH-LOG  ] {asn 00.000077ee link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 125, st 0  1[INFO: App       ] Start Sending: 133 asn 00.00007835
+[INFO: App       ] Unicast 133
+[INFO: TSCH-LOG  ] {asn 00.00007842 link  1  17   0 16  2 ch 15} drift -26 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.00007842 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 141, st 0  1, dr  -4
+[INFO: App       ] Received downward: Unicast 133 asn 00.00007852 [INFO: TSCH-LOG  ] {asn 00.00007851 link  1  17   0 14  3 ch 15} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 122, edr  -4, dr   4
+[INFO: RPL       ] sending a multicast-DIO with rank 283 to ff02::1a
+[INFO: TSCH-LOG  ] {asn 00.00007870 link  2  41   0  0  0 ch 15} bc-1-0 tx LL-0485->LL-NULL, len  94, seq 126, st 0  1[INFO: App       ] Start Sending: 134 asn 00.000078fe
+[INFO: App       ] Unicast 134
+[INFO: TSCH-LOG  ] {asn 00.0000790e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 142, st 0  1, dr  -4
+[INFO: App       ] Received downward: Unicast 134 asn 00.0000791e [INFO: TSCH-LOG  ] {asn 00.0000791d link  1  17   0 14  3 ch 15} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 123, edr  -6, dr   6
+[INFO: TSCH-LOG  ] {asn 00.0000792e link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 123, edr   1, dr  -1
+[INFO: TSCH-LOG  ] {asn 00.0000793f link  1  17   0 14  3 ch 26} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 123, edr  -1, dr   1
+[INFO: App       ] Start Sending: 135 asn 00.000079c6
+[INFO: App       ] Unicast 135
+[INFO: TSCH-LOG  ] {asn 00.000079c9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 143, st 0  1, dr  -6
+[INFO: TSCH-LOG  ] {asn 00.000079d2 link  0 397   0 220  1 ch 20} drift -21 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.000079d2 link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq 123, edr  -5, dr   5
+[INFO: App       ] Received downward: Unicast 135 asn 00.000079d9 [INFO: TSCH-LOG  ] {asn 00.000079d8 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 124, edr   0, dr   0
+[INFO: App       ] Start Sending: 136 asn 00.00007a8f
+[INFO: App       ] Unicast 136
+[INFO: TSCH-LOG  ] {asn 00.00007a95 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 144, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 136 asn 00.00007aa5 [INFO: TSCH-LOG  ] {asn 00.00007aa4 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 125, edr  -6, dr   6
+[INFO: App       ] Start Sending: 137 asn 00.00007b58
+[INFO: App       ] Unicast 137
+[INFO: TSCH-LOG  ] {asn 00.00007b61 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 145, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 137 asn 00.00007b71 [INFO: TSCH-LOG  ] {asn 00.00007b70 link  1  17   0 14  3 ch 20} drift -24 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.00007b70 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 126, edr  -5, dr   5
+[INFO: App       ] Start Sending: 138 asn 00.00007c21
+[INFO: App       ] Unicast 138
+[INFO: TSCH-LOG  ] {asn 00.00007c2d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 146, st 0  1, dr  -4
+[INFO: App       ] Received downward: Unicast 138 asn 00.00007c3d [INFO: TSCH-LOG  ] {asn 00.00007c3c link  1  17   0 14  3 ch 20} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 127, edr  -4, dr   4
+[INFO: App       ] Start Sending: 139 asn 00.00007ce9
+[INFO: App       ] Unicast 139
+[INFO: TSCH-LOG  ] {asn 00.00007cf9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 147, st 0  1, dr  -8
+[INFO: TSCH-LOG  ] {asn 00.00007d08 link  1  17   0 14  3 ch 20} !failed to parse frame 0 0[INFO: App       ] Received downward: Unicast 139 asn 00.00007d1a [INFO: TSCH-LOG  ] {asn 00.00007d19 link  1  17   0 14  3 ch 15} drift -22 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.00007d19 link  1  17   0 14  3 ch 15} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 128, edr  -7, dr   7
+[INFO: App       ] Start Sending: 140 asn 00.00007db2
+[INFO: App       ] Unicast 140
+[INFO: TSCH-LOG  ] {asn 00.00007db4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 148, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 140 asn 00.00007dc4 [INFO: TSCH-LOG  ] {asn 00.00007dc3 link  1  17   0 14  3 ch 26} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 129, edr  -6, dr   6
+[INFO: TSCH-LOG  ] {asn 00.00007e22 link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 127, st 0  1[INFO: TSCH-LOG  ] {asn 00.00007e79 link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq 129, edr   0, dr   0
+[INFO: App       ] Start Sending: 141 asn 00.00007e7b
+[INFO: App       ] Unicast 141
+[INFO: TSCH-LOG  ] {asn 00.00007e80 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 149, st 2  1[INFO: TSCH-LOG  ] {asn 00.00007e91 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 149, st 2  2[INFO: TSCH-LOG  ] {asn 00.00007ea2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 149, st 2  3[INFO: TSCH-LOG  ] {asn 00.00007eb3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 149, st 2  4[INFO: TSCH-LOG  ] {asn 00.00007ec4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 149, st 2  5[INFO: TSCH-LOG  ] {asn 00.00007ed5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 149, st 2  6[INFO: TSCH-LOG  ] {asn 00.00007ee6 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 149, st 2  7[INFO: TSCH-LOG  ] {asn 00.00007f08 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 149, st 2  8
+[INFO: App       ] Start Sending: 142 asn 00.00007f44
+[INFO: App       ] Unicast 142
+[INFO: TSCH-LOG  ] {asn 00.00007f4c link  1  17   0 16  2 ch 26} drift -27 ppm (min/max delta seen: -8/8)
+[INFO: TSCH-LOG  ] {asn 00.00007f4c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 150, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 142 asn 00.00007f6d [INFO: TSCH-LOG  ] {asn 00.00007f6c link  1  17   0 14  3 ch 20} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 130, edr  -4, dr   4
+[INFO: TSCH-LOG  ] {asn 00.00007f7d link  1  17   0 14  3 ch 15} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 130, edr  -1, dr   1
+[INFO: TSCH-LOG  ] {asn 00.00007f8e link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 130, edr   1, dr  -1
+[INFO: TSCH-LOG  ] {asn 00.00007fd2 link  1  17   0 14  3 ch 25} uc-1-0 rx LL-1fdc->LL-0485, len  50, seq 130, edr   0, dr   0
+[INFO: App       ] Start Sending: 143 asn 00.0000800d
+[INFO: App       ] Unicast 143
+[INFO: TSCH-LOG  ] {asn 00.00008018 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 151, st 2  1[INFO: TSCH-LOG  ] {asn 00.00008029 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 151, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000803a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 151, st 2  3[INFO: TSCH-LOG  ] {asn 00.0000804b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 151, st 2  4[INFO: TSCH-LOG  ] {asn 00.0000805c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 151, st 2  5[INFO: TSCH-LOG  ] {asn 00.0000807e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 151, st 2  6[INFO: TSCH-LOG  ] {asn 00.000080a0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 151, st 2  7[INFO: TSCH-LOG  ] {asn 00.000080c2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 151, st 2  8
+[INFO: App       ] Start Sending: 144 asn 00.000080d5
+[INFO: App       ] Unicast 144
+[INFO: TSCH-LOG  ] {asn 00.000080e4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 152, st 2  1[INFO: TSCH-LOG  ] {asn 00.000080f5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 152, st 2  2[INFO: TSCH-LOG  ] {asn 00.00008117 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 152, st 2  3[INFO: TSCH-LOG  ] {asn 00.00008128 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 152, st 2  4[INFO: TSCH-LOG  ] {asn 00.00008139 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 152, st 2  5[INFO: TSCH-LOG  ] {asn 00.0000815b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 152, st 2  6[INFO: TSCH-LOG  ] {asn 00.0000817d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 152, st 2  7[INFO: TSCH-LOG  ] {asn 00.0000818e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 152, st 2  8
+[WARN: RPL       ] significant rank update 283->900
+[INFO: App       ] Start Sending: 145 asn 00.0000819f
+[INFO: App       ] Unicast 145
+[INFO: TSCH-LOG  ] {asn 00.0000819f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 153, st 2  1[INFO: TSCH-LOG  ] {asn 00.000081b0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 153, st 2  2[INFO: TSCH-LOG  ] {asn 00.000081c1 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 153, st 2  3[INFO: TSCH-LOG  ] {asn 00.000081d2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 153, st 2  4[INFO: TSCH-LOG  ] {asn 00.000081e3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 153, st 2  5[INFO: TSCH-LOG  ] {asn 00.00008205 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 153, st 2  6[INFO: TSCH-LOG  ] {asn 00.00008227 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 153, st 2  7[INFO: TSCH-LOG  ] {asn 00.00008249 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 153, st 2  8
+[INFO: App       ] Start Sending: 146 asn 00.00008267
+[INFO: App       ] Unicast 146
+[INFO: TSCH-LOG  ] {asn 00.0000826b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 154, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000828d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 154, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000829e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 154, st 2  3[INFO: TSCH-LOG  ] {asn 00.000082c0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 154, st 2  4
+[INFO: TSCH-LOG  ] {asn 00.000082c9 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 128, st 0  1[INFO: RPL       ] sending a multicast-DIO with rank 1078 to ff02::1a
+[INFO: TSCH-LOG  ] {asn 00.000082d1 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 154, st 2  5[INFO: TSCH-LOG  ] {asn 00.000082d9 link  2  41   0  0  0 ch 25} bc-1-0 tx LL-0485->LL-NULL, len  94, seq 129, st 0  1[INFO: TSCH-LOG  ] {asn 00.000082e2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 154, st 2  6[INFO: TSCH-LOG  ] {asn 00.00008304 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 154, st 2  7[INFO: TSCH-LOG  ] {asn 00.00008326 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 154, st 2  8
+[INFO: RPL       ] parent switch: fe80::f6ce:3623:9010:1fdc -> (NULL IP addr)
+[WARN: RPL       ] no parent, scheduling periodic DIS, will leave if no parent is found
+[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: initialized, MOP 1 OCP 1 rank 65535 max-rank 1283, dioint 12, nbr count 1 (Parent switch)
+[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,  1111 =>  1239 -- 16 r  f  (last tx 0 min ago, better since 0 min)
+[INFO: RPL       ] nbr: end of list
+[INFO: App       ] Start Sending: 147 asn 00.00008330
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 148 asn 00.000083f8
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 149 asn 00.000084c1
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 150 asn 00.0000858a
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 151 asn 00.00008653
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 152 asn 00.0000871c
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 153 asn 00.000087e4
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 154 asn 00.000088ad
+[INFO: App       ] Not reachable yet[INFO: RPL       ] sending a DIS to ff02::1a
+[INFO: TSCH-LOG  ] {asn 00.00008941 link  2  41   0  0  0 ch 25} bc-1-0 tx LL-0485->LL-NULL, len  24, seq 130, st 0  1[INFO: App       ] Start Sending: 155 asn 00.00008976
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 156 asn 00.00008a3f
+[INFO: App       ] Not reachable yet[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:36a2:606e:782, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 941
+[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:36a2:606e:782
+[INFO: TSCH-LOG  ] {asn 00.00008adb link  2  41   0  0  0 ch 20} bc-1-0 rx LL-0782->LL-NULL, len  94, seq 133, edr -14[INFO: App       ] Start Sending: 157 asn 00.00008b08
+[INFO: App       ] Not reachable yet[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::f6ce:36a2:606e:782
+[INFO: TSCH-LOG  ] {asn 00.00008b5d link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len 100, seq 155, st 0  1
+[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:36a2:606e:782
+[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::f6ce:36a2:606e:782
+[INFO: TSCH-LOG  ] {asn 00.00008b90 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len 100, seq 156, st 0  1
+[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:36a2:606e:782
+[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::f6ce:36a2:606e:782
+[INFO: App       ] Start Sending: 158 asn 00.00008bd1
+[INFO: App       ] Not reachable yet[INFO: TSCH-LOG  ] {asn 00.00008bd4 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len 100, seq 157, st 0  1
+[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:36a2:606e:782
+[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::f6ce:36a2:606e:782
+[INFO: TSCH-LOG  ] {asn 00.00008c4b link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len 100, seq 158, st 0  1
+[INFO: RPL       ] parent switch: (NULL IP addr) -> fe80::f6ce:36a2:606e:782
+[WARN: RPL       ] found parent: fe80::f6ce:36a2:606e:782, staying in DAG
+[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: joined, MOP 1 OCP 1 rank 1166 max-rank 2190, dioint 12, nbr count 2 (Parent switch)
+[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,  1111 =>  1239 -- 16 r  f  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:36a2:606e:782  941,   225 =>  1166 --  4  bafp (last tx 0 min ago)
+[INFO: RPL       ] nbr: end of list[INFO: App       ] Start Sending: 159 asn 00.00008c9a
+[INFO: App       ] Not reachable yet[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:36a2:606e:782, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 941
 [INFO: RPL       ] refreshing lifetime
-[INFO: TSCH-LOG  ] {asn 00.0000bc58 link  2  41   0  0  0 ch 15} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq  19, edr  -7, dr   7
-[INFO: App       ] Start Sending: Unicast 16 asn 00.0000bcf4
-[INFO: TSCH-LOG  ] {asn 00.0000bcfd link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq  98, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 17 asn 00.0000bdbd
-[INFO: TSCH-LOG  ] {asn 00.0000bdc9 link  1  17   0 16  2 ch 20} drift -26 ppm (min/max delta seen: -20/7)
-[INFO: TSCH-LOG  ] {asn 00.0000bdc9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq  99, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000be0e link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -6, dr   6
-[INFO: App       ] Start Sending: Unicast 18 asn 00.0000be86
-[INFO: TSCH-LOG  ] {asn 00.0000be95 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 100, st 0  1, dr  -8
-[INFO: App       ] Start Sending: Unicast 19 asn 00.0000bf4f
-[INFO: TSCH-LOG  ] {asn 00.0000bf50 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 101, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000bf61 link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/7)
-[INFO: TSCH-LOG  ] {asn 00.0000bf61 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 101, st 0  2, dr   4
-[INFO: App       ] Start Sending: Unicast 20 asn 00.0000c017
-[INFO: TSCH-LOG  ] {asn 00.0000c01c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 102, st 0  1, dr   0
-[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3641:b95d:22eb, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 303
-[INFO: TSCH-LOG  ] {asn 00.0000c0ab link  2  41   0  0  0 ch 20} bc-1-0 rx LL-22eb->LL-NULL, len  94, seq  19, edr  -8[INFO: App       ] Start Sending: Unicast 21 asn 00.0000c0df
-[INFO: TSCH-LOG  ] {asn 00.0000c0e8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 103, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000c0f9 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/7)
-[INFO: TSCH-LOG  ] {asn 00.0000c0f9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 103, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 22 asn 00.0000c1a7
-[INFO: TSCH-LOG  ] {asn 00.0000c1b4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 104, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.0000c25e link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 245, st 0  1[INFO: App       ] Start Sending: Unicast 23 asn 00.0000c270
-[INFO: TSCH-LOG  ] {asn 00.0000c280 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 105, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 24 asn 00.0000c338
-[INFO: TSCH-LOG  ] {asn 00.0000c33b link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/7)
-[INFO: TSCH-LOG  ] {asn 00.0000c33b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 106, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 25 asn 00.0000c401
-[INFO: TSCH-LOG  ] {asn 00.0000c407 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 107, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000c442 link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -6, dr   6
-[INFO: RPL       ] sending a multicast-DIO with rank 272 to ff02::1a
-[INFO: TSCH-LOG  ] {asn 00.0000c483 link  2  41   0  0  0 ch 20} bc-1-0 tx LL-0485->LL-NULL, len  94, seq 246, st 0  1[INFO: App       ] Start Sending: Unicast 26 asn 00.0000c4ca
-[INFO: TSCH-LOG  ] {asn 00.0000c4d3 link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/7)
-[INFO: TSCH-LOG  ] {asn 00.0000c4d3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 108, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 27 asn 00.0000c593
-[INFO: TSCH-LOG  ] {asn 00.0000c59f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 109, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 28 asn 00.0000c65b
-[INFO: TSCH-LOG  ] {asn 00.0000c66b link  1  17   0 16  2 ch 25} drift -28 ppm (min/max delta seen: -20/7)
-[INFO: TSCH-LOG  ] {asn 00.0000c66b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 110, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.0000c705 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 247, st 0  1[INFO: App       ] Start Sending: Unicast 29 asn 00.0000c723
-[INFO: TSCH-LOG  ] {asn 00.0000c726 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 111, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 30 asn 00.0000c7eb
-[INFO: TSCH-LOG  ] {asn 00.0000c7f2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 112, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 31 asn 00.0000c8b3
-[INFO: TSCH-LOG  ] {asn 00.0000c8be link  1  17   0 16  2 ch 15} drift -25 ppm (min/max delta seen: -20/7)
-[INFO: TSCH-LOG  ] {asn 00.0000c8be link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 113, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000c8e9 link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -9, dr   9
-[INFO: App       ] Start Sending: Unicast 32 asn 00.0000c97b
-[INFO: TSCH-LOG  ] {asn 00.0000c98a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 114, st 0  1, dr  -8
-[INFO: App       ] Start Sending: Unicast 33 asn 00.0000ca43
-[INFO: TSCH-LOG  ] {asn 00.0000ca45 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 115, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 34 asn 00.0000cb0c
-[INFO: TSCH-LOG  ] {asn 00.0000cb11 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000cb11 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 116, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 35 asn 00.0000cbd5
-[INFO: TSCH-LOG  ] {asn 00.0000cbdd link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 117, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 36 asn 00.0000cc9e
-[INFO: TSCH-LOG  ] {asn 00.0000cca9 link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000cca9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 118, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.0000cd39 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 248, st 0  1[INFO: App       ] Start Sending: Unicast 37 asn 00.0000cd66
-[INFO: TSCH-LOG  ] {asn 00.0000cd75 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 119, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.0000cd90 link  0 397   0 220  1 ch 25} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -3, dr   3
-[INFO: App       ] Start Sending: Unicast 38 asn 00.0000ce2e
-[INFO: TSCH-LOG  ] {asn 00.0000ce30 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 120, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 39 asn 00.0000cef6
-[INFO: TSCH-LOG  ] {asn 00.0000cefc link  1  17   0 16  2 ch 26} drift -27 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000cefc link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 121, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 40 asn 00.0000cfbe
-[INFO: TSCH-LOG  ] {asn 00.0000cfc8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 122, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 41 asn 00.0000d086
-[INFO: TSCH-LOG  ] {asn 00.0000d094 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 123, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000d0a5 link  1  17   0 16  2 ch 20} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000d0a5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 123, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 42 asn 00.0000d14e
-[INFO: TSCH-LOG  ] {asn 00.0000d14f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 124, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 43 asn 00.0000d216
-[INFO: TSCH-LOG  ] {asn 00.0000d21b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 125, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 44 asn 00.0000d2de
-[INFO: TSCH-LOG  ] {asn 00.0000d2e7 link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000d2e7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 126, st 0  1, dr   4
-[INFO: TSCH-LOG  ] {asn 00.0000d36d link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 249, st 0  1[INFO: App       ] Start Sending: Unicast 45 asn 00.0000d3a6
-[INFO: TSCH-LOG  ] {asn 00.0000d3b3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 127, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000d3c4 link  0 397   0 220  1 ch 25} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: App       ] Start Sending: Unicast 46 asn 00.0000d46e
-[INFO: TSCH-LOG  ] {asn 00.0000d47f link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000d47f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 128, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 47 asn 00.0000d536
-[INFO: TSCH-LOG  ] {asn 00.0000d53a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 129, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000d54b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 129, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 48 asn 00.0000d5fe
-[INFO: TSCH-LOG  ] {asn 00.0000d606 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 130, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000d617 link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000d617 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 130, st 0  2, dr   0
-[INFO: App       ] Start Sending: Unicast 49 asn 00.0000d6c7
-[INFO: TSCH-LOG  ] {asn 00.0000d6d2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 131, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 50 asn 00.0000d78e
-[INFO: TSCH-LOG  ] {asn 00.0000d79e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 132, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.0000d814 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 250, st 0  1[INFO: App       ] Start Sending: Unicast 51 asn 00.0000d856
-[INFO: TSCH-LOG  ] {asn 00.0000d859 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000d859 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 133, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.0000d86b link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: App       ] Start Sending: Unicast 52 asn 00.0000d91e
-[INFO: TSCH-LOG  ] {asn 00.0000d925 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 134, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 53 asn 00.0000d9e6
-[INFO: TSCH-LOG  ] {asn 00.0000d9f1 link  1  17   0 16  2 ch 20} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000d9f1 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 135, st 0  1, dr   0
-[INFO: RPL       ] sending a multicast-DIO with rank 272 to ff02::1a
-[INFO: TSCH-LOG  ] {asn 00.0000da4b link  2  41   0  0  0 ch 20} bc-1-0 tx LL-0485->LL-NULL, len  94, seq 251, st 0  1[INFO: App       ] Start Sending: Unicast 54 asn 00.0000daae
-[INFO: TSCH-LOG  ] {asn 00.0000dabd link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 136, st 0  1, dr  -2
-[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
-[INFO: RPL       ] refreshing lifetime
-[INFO: TSCH-LOG  ] {asn 00.0000db41 link  2  41   0  0  0 ch 25} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq  19, edr  -6, dr   6
-[INFO: App       ] Start Sending: Unicast 55 asn 00.0000db76
-[INFO: TSCH-LOG  ] {asn 00.0000db78 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 137, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 56 asn 00.0000dc3f
-[INFO: TSCH-LOG  ] {asn 00.0000dc44 link  1  17   0 16  2 ch 26} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000dc44 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 138, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 57 asn 00.0000dd07
-[INFO: TSCH-LOG  ] {asn 00.0000dd10 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 139, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000dd12 link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: TSCH-LOG  ] {asn 00.0000dd21 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 139, st 0  2, dr  -4
-[INFO: App       ] Start Sending: Unicast 58 asn 00.0000ddd0
-[INFO: TSCH-LOG  ] {asn 00.0000dddc link  1  17   0 16  2 ch 26} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000dddc link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 140, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000de48 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 252, st 0  1[INFO: App       ] Start Sending: Unicast 59 asn 00.0000de99
-[INFO: TSCH-LOG  ] {asn 00.0000dea8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 141, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 60 asn 00.0000df62
-[INFO: TSCH-LOG  ] {asn 00.0000df63 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 142, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 61 asn 00.0000e02a
-[INFO: TSCH-LOG  ] {asn 00.0000e02f link  1  17   0 16  2 ch 25} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000e02f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 143, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 62 asn 00.0000e0f2
-[INFO: TSCH-LOG  ] {asn 00.0000e0fb link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 144, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 63 asn 00.0000e1bb
-[INFO: TSCH-LOG  ] {asn 00.0000e1c7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 145, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000e1d8 link  1  17   0 16  2 ch 26} drift -27 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000e1d8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 145, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 64 asn 00.0000e282
-[INFO: TSCH-LOG  ] {asn 00.0000e293 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 146, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000e2a4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 146, st 0  2, dr   4
-[INFO: TSCH-LOG  ] {asn 00.0000e346 link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -3, dr   3
-[INFO: App       ] Start Sending: Unicast 65 asn 00.0000e34a
-[INFO: TSCH-LOG  ] {asn 00.0000e34e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 147, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000e35f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 147, st 0  2, dr  -4
-[INFO: App       ] Start Sending: Unicast 66 asn 00.0000e412
-[INFO: TSCH-LOG  ] {asn 00.0000e41a link  1  17   0 16  2 ch 15} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000e41a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 148, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000e47c link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 253, st 0  1[INFO: App       ] Start Sending: Unicast 67 asn 00.0000e4da
-[INFO: TSCH-LOG  ] {asn 00.0000e4e6 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 149, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 68 asn 00.0000e5a2
-[INFO: TSCH-LOG  ] {asn 00.0000e5b2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 150, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000e5c3 link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000e5c3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 150, st 0  2, dr   0
-[INFO: App       ] Start Sending: Unicast 69 asn 00.0000e66a
-[INFO: TSCH-LOG  ] {asn 00.0000e66d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 151, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 70 asn 00.0000e732
-[INFO: TSCH-LOG  ] {asn 00.0000e739 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 152, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 71 asn 00.0000e7fa
-[INFO: TSCH-LOG  ] {asn 00.0000e805 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000e805 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 153, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 72 asn 00.0000e8c2
-[INFO: TSCH-LOG  ] {asn 00.0000e8d1 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 154, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000e923 link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 254, st 0  1[INFO: TSCH-LOG  ] {asn 00.0000e97a link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -8, dr   8
-[INFO: App       ] Start Sending: Unicast 73 asn 00.0000e98a
-[INFO: TSCH-LOG  ] {asn 00.0000e98c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 155, st 0  1, dr  -8
-[INFO: App       ] Start Sending: Unicast 74 asn 00.0000ea53
-[INFO: TSCH-LOG  ] {asn 00.0000ea58 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 156, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000ea69 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000ea69 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 156, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 75 asn 00.0000eb1c
-[INFO: TSCH-LOG  ] {asn 00.0000eb24 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 157, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 76 asn 00.0000ebe5
-[INFO: TSCH-LOG  ] {asn 00.0000ebf0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 158, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 77 asn 00.0000ecae
-[INFO: TSCH-LOG  ] {asn 00.0000ecbc link  1  17   0 16  2 ch 26} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000ecbc link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 159, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 78 asn 00.0000ed76
-[INFO: TSCH-LOG  ] {asn 00.0000ed77 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 160, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000ee21 link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: App       ] Start Sending: Unicast 79 asn 00.0000ee3e
-[INFO: TSCH-LOG  ] {asn 00.0000ee43 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 161, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 80 asn 00.0000ef06
-[INFO: TSCH-LOG  ] {asn 00.0000ef0f link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000ef0f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 162, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.0000ef57 link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 255, st 0  1[INFO: App       ] Start Sending: Unicast 81 asn 00.0000efce
-[INFO: TSCH-LOG  ] {asn 00.0000efdb link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 163, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 82 asn 00.0000f096
-[INFO: TSCH-LOG  ] {asn 00.0000f0a7 link  1  17   0 16  2 ch 25} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000f0a7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 164, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 83 asn 00.0000f15e
-[INFO: TSCH-LOG  ] {asn 00.0000f162 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 165, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000f173 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 165, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000f184 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 165, st 2  3[INFO: TSCH-LOG  ] {asn 00.0000f195 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 165, st 0  4, dr   2
-[INFO: App       ] Start Sending: Unicast 84 asn 00.0000f226
-[INFO: TSCH-LOG  ] {asn 00.0000f22e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 166, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000f2c8 link  0 397   0 220  1 ch 25} drift -22 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000f2c8 link  0 397   0 220  1 ch 25} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: App       ] Start Sending: Unicast 85 asn 00.0000f2ee
-[INFO: TSCH-LOG  ] {asn 00.0000f2fa link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 167, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 86 asn 00.0000f3b6
-[INFO: TSCH-LOG  ] {asn 00.0000f3c6 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 168, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000f3d7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 168, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000f3e8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 168, st 0  3, dr   2
-[INFO: TSCH-LOG  ] {asn 00.0000f3fe link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq   1, st 0  1[INFO: App       ] Start Sending: Unicast 87 asn 00.0000f47e
-[INFO: TSCH-LOG  ] {asn 00.0000f481 link  1  17   0 16  2 ch 20} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000f481 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 169, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 88 asn 00.0000f546
-[INFO: TSCH-LOG  ] {asn 00.0000f54d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 170, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 89 asn 00.0000f60e
-[INFO: TSCH-LOG  ] {asn 00.0000f619 link  1  17   0 16  2 ch 20} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000f619 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 171, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 90 asn 00.0000f6d6
-[INFO: TSCH-LOG  ] {asn 00.0000f6e5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 172, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.0000f76f link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -6, dr   6
-[INFO: App       ] Start Sending: Unicast 91 asn 00.0000f79e
-[INFO: TSCH-LOG  ] {asn 00.0000f7a0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 173, st 0  1, dr  -8
-[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
-[INFO: RPL       ] refreshing lifetime
-[INFO: TSCH-LOG  ] {asn 00.0000f83e link  2  41   0  0  0 ch 26} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000f83e link  2  41   0  0  0 ch 26} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq  19, edr  -8, dr   8
-[INFO: App       ] Start Sending: Unicast 92 asn 00.0000f867
-[INFO: TSCH-LOG  ] {asn 00.0000f86c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 174, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 93 asn 00.0000f930
-[INFO: TSCH-LOG  ] {asn 00.0000f938 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 175, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 94 asn 00.0000f9f9
-[INFO: TSCH-LOG  ] {asn 00.0000fa04 link  1  17   0 16  2 ch 26} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000fa04 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 176, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0000fa32 link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq   2, st 0  1[INFO: App       ] Start Sending: Unicast 95 asn 00.0000fac2
-[INFO: TSCH-LOG  ] {asn 00.0000fad0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 177, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 96 asn 00.0000fb8a
-[INFO: TSCH-LOG  ] {asn 00.0000fb8b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 178, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 97 asn 00.0000fc52
-[INFO: TSCH-LOG  ] {asn 00.0000fc57 link  1  17   0 16  2 ch 25} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000fc57 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 179, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 98 asn 00.0000fd1a
-[INFO: TSCH-LOG  ] {asn 00.0000fd23 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  49, seq 180, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 99 asn 00.0000fde2
-[INFO: TSCH-LOG  ] {asn 00.0000fdef link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 181, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000fe00 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 181, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000fe11 link  1  17   0 16  2 ch 20} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0000fe11 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 181, st 0  3, dr  -2
-[INFO: RPL       ] sending a multicast-DIO with rank 294 to ff02::1a
-[INFO: TSCH-LOG  ] {asn 00.0000fea6 link  2  41   0  0  0 ch 26} bc-1-0 tx LL-0485->LL-NULL, len  94, seq   4, st 0  1[INFO: App       ] Start Sending: Unicast 100 asn 00.0000feaa
-[INFO: TSCH-LOG  ] {asn 00.0000febb link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 182, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.0000fed9 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq   3, st 0  1[INFO: App       ] Start Sending: Unicast 101 asn 00.0000ff72
-[INFO: TSCH-LOG  ] {asn 00.0000ff76 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 183, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 102 asn 00.0001003a
-[INFO: TSCH-LOG  ] {asn 00.00010042 link  1  17   0 16  2 ch 15} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00010042 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 184, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 103 asn 00.00010102
-[INFO: TSCH-LOG  ] {asn 00.0001010e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 185, st 2  1[INFO: TSCH-LOG  ] {asn 00.0001011f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 185, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 104 asn 00.000101ca
-[INFO: TSCH-LOG  ] {asn 00.000101da link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 186, st 2  1[INFO: TSCH-LOG  ] {asn 00.000101eb link  1  17   0 16  2 ch 25} drift -27 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000101eb link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 186, st 0  2, dr   4
-[INFO: App       ] Start Sending: Unicast 105 asn 00.00010292
-[INFO: TSCH-LOG  ] {asn 00.00010295 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 187, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 106 asn 00.0001035a
-[INFO: TSCH-LOG  ] {asn 00.00010361 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 188, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.00010380 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq   5, st 0  1[INFO: TSCH-LOG  ] {asn 00.000103d7 link  0 397   0 220  1 ch 15} drift -22 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000103d7 link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -6, dr   6
-[INFO: App       ] Start Sending: Unicast 107 asn 00.00010422
-[INFO: TSCH-LOG  ] {asn 00.0001042d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 189, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 108 asn 00.000104ea
-[INFO: TSCH-LOG  ] {asn 00.000104f9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 190, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 109 asn 00.000105b2
-[INFO: TSCH-LOG  ] {asn 00.000105b4 link  1  17   0 16  2 ch 26} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000105b4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 191, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 110 asn 00.0001067b
-[INFO: TSCH-LOG  ] {asn 00.00010680 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 192, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 111 asn 00.00010744
-[INFO: TSCH-LOG  ] {asn 00.0001074c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 193, st 2  1[INFO: TSCH-LOG  ] {asn 00.0001075d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 193, st 2  2[INFO: TSCH-LOG  ] {asn 00.0001076e link  1  17   0 16  2 ch 15} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0001076e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 193, st 0  3, dr   2
-[INFO: App       ] Start Sending: Unicast 112 asn 00.0001080d
-[INFO: TSCH-LOG  ] {asn 00.00010818 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 194, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 113 asn 00.000108d5
-[INFO: TSCH-LOG  ] {asn 00.000108e4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 195, st 2  1[INFO: TSCH-LOG  ] {asn 00.000108f5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 195, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 114 asn 00.0001099d
-[INFO: TSCH-LOG  ] {asn 00.0001099f link  1  17   0 16  2 ch 25} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0001099f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 196, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.000109b4 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq   6, st 0  1[INFO: TSCH-LOG  ] {asn 00.00010a0b link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -7, dr   7
-[INFO: App       ] Start Sending: Unicast 115 asn 00.00010a65
-[INFO: TSCH-LOG  ] {asn 00.00010a6b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 197, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 116 asn 00.00010b2d
-[INFO: TSCH-LOG  ] {asn 00.00010b37 link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00010b37 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 198, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 117 asn 00.00010bf5
-[INFO: TSCH-LOG  ] {asn 00.00010c03 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 199, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 118 asn 00.00010cbd
-[INFO: TSCH-LOG  ] {asn 00.00010cbe link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 200, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 119 asn 00.00010d85
-[INFO: TSCH-LOG  ] {asn 00.00010d8a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 201, st 2  1[INFO: TSCH-LOG  ] {asn 00.00010d9b link  1  17   0 16  2 ch 25} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00010d9b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 201, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 120 asn 00.00010e4d
-[INFO: TSCH-LOG  ] {asn 00.00010e56 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 202, st 2  1[INFO: TSCH-LOG  ] {asn 00.00010e5b link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq   7, st 0  1[INFO: TSCH-LOG  ] {asn 00.00010e67 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 202, st 0  2, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.00010eb2 link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -7, dr   7
-[INFO: App       ] Start Sending: Unicast 121 asn 00.00010f15
-[INFO: TSCH-LOG  ] {asn 00.00010f22 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 203, st 0  1, dr  -8
-[INFO: App       ] Start Sending: Unicast 122 asn 00.00010fdd
-[INFO: TSCH-LOG  ] {asn 00.00010fee link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 204, st 2  1[INFO: TSCH-LOG  ] {asn 00.00010fff link  1  17   0 16  2 ch 25} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00010fff link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 204, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 123 asn 00.000110a5
-[INFO: TSCH-LOG  ] {asn 00.000110a9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 205, st 2  1[INFO: TSCH-LOG  ] {asn 00.000110ba link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 205, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 124 asn 00.0001116d
-[INFO: TSCH-LOG  ] {asn 00.00011186 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 206, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 125 asn 00.00011236
-[INFO: TSCH-LOG  ] {asn 00.00011241 link  1  17   0 16  2 ch 20} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00011241 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 207, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 126 asn 00.000112ff
-[INFO: TSCH-LOG  ] {asn 00.0001130d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 208, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 127 asn 00.000113c7
-[INFO: TSCH-LOG  ] {asn 00.000113c8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 209, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 128 asn 00.0001148f
-[INFO: TSCH-LOG  ] {asn 00.0001148f link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq   8, st 0  1[INFO: TSCH-LOG  ] {asn 00.00011494 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 210, st 2  1[INFO: TSCH-LOG  ] {asn 00.000114a5 link  1  17   0 16  2 ch 20} drift -27 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000114a5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 210, st 0  2, dr   2
-[INFO: TSCH-LOG  ] {asn 00.000114e6 link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -8, dr   8
-[INFO: App       ] Start Sending: Unicast 129 asn 00.00011558
-[INFO: TSCH-LOG  ] {asn 00.00011560 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 211, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 130 asn 00.00011621
-[INFO: TSCH-LOG  ] {asn 00.0001162c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 212, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 131 asn 00.000116e9
-[INFO: TSCH-LOG  ] {asn 00.000116f8 link  1  17   0 16  2 ch 26} drift -23 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000116f8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 213, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 132 asn 00.000117b1
-[INFO: TSCH-LOG  ] {asn 00.000117b3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 214, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 133 asn 00.00011879
-[INFO: TSCH-LOG  ] {asn 00.0001187f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 215, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.00011936 link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq   9, st 0  1[INFO: App       ] Start Sending: Unicast 134 asn 00.00011941
-[INFO: TSCH-LOG  ] {asn 00.0001194b link  1  17   0 16  2 ch 25} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0001194b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 216, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 135 asn 00.00011a09
-[INFO: TSCH-LOG  ] {asn 00.00011a17 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 217, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 136 asn 00.00011ad1
-[INFO: TSCH-LOG  ] {asn 00.00011ad2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 218, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.00011b1a link  0 397   0 220  1 ch 20} drift -22 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00011b1a link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -7, dr   7
-[INFO: App       ] Start Sending: Unicast 137 asn 00.00011b99
-[INFO: TSCH-LOG  ] {asn 00.00011b9e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 219, st 2  1[INFO: TSCH-LOG  ] {asn 00.00011baf link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 219, st 2  2[INFO: TSCH-LOG  ] {asn 00.00011bc0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 219, st 0  3, dr  -6
-[INFO: App       ] Start Sending: Unicast 138 asn 00.00011c61
-[INFO: TSCH-LOG  ] {asn 00.00011c6a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 220, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 139 asn 00.00011d29
-[INFO: TSCH-LOG  ] {asn 00.00011d36 link  1  17   0 16  2 ch 15} drift -23 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00011d36 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 221, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.00011ddd link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  10, st 0  1[INFO: App       ] Start Sending: Unicast 140 asn 00.00011df1
-[INFO: TSCH-LOG  ] {asn 00.00011e02 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 222, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 141 asn 00.00011eb9
-[INFO: TSCH-LOG  ] {asn 00.00011ebd link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 223, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 142 asn 00.00011f81
-[INFO: TSCH-LOG  ] {asn 00.00011f89 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00011f89 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 224, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 143 asn 00.0001204a
-[INFO: TSCH-LOG  ] {asn 00.00012055 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 225, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 144 asn 00.00012111
-[INFO: TSCH-LOG  ] {asn 00.00012121 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 226, st 2  1[INFO: TSCH-LOG  ] {asn 00.00012132 link  1  17   0 16  2 ch 15} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00012132 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 226, st 0  2, dr   0
-[INFO: TSCH-LOG  ] {asn 00.0001214e link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -4, dr   4
-[INFO: App       ] Start Sending: Unicast 145 asn 00.000121d9
-[INFO: TSCH-LOG  ] {asn 00.000121dc link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 227, st 0  1, dr  -8
-[INFO: TSCH-LOG  ] {asn 00.00012284 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  11, st 0  1[INFO: App       ] Start Sending: Unicast 146 asn 00.000122a1
-[INFO: TSCH-LOG  ] {asn 00.000122a8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 228, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 147 asn 00.00012369
-[INFO: TSCH-LOG  ] {asn 00.00012374 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 229, st 2  1[INFO: TSCH-LOG  ] {asn 00.00012385 link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00012385 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 229, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 148 asn 00.00012431
-[INFO: TSCH-LOG  ] {asn 00.00012440 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 230, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 149 asn 00.000124f9
-[INFO: TSCH-LOG  ] {asn 00.000124fb link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 231, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 150 asn 00.000125c2
-[INFO: TSCH-LOG  ] {asn 00.000125c7 link  1  17   0 16  2 ch 25} drift -23 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000125c7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 232, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.000125f5 link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: App       ] Start Sending: Unicast 151 asn 00.0001268b
-[INFO: TSCH-LOG  ] {asn 00.00012693 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 233, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 152 asn 00.00012754
-[INFO: TSCH-LOG  ] {asn 00.0001275f link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0001275f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 234, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 153 asn 00.0001281d
-[INFO: TSCH-LOG  ] {asn 00.0001282b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 235, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.000128b8 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  12, st 0  1[INFO: App       ] Start Sending: Unicast 154 asn 00.000128e5
-[INFO: TSCH-LOG  ] {asn 00.000128e6 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 236, st 2  1[INFO: TSCH-LOG  ] {asn 00.000128f7 link  1  17   0 16  2 ch 25} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000128f7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 236, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 155 asn 00.000129ad
-[INFO: TSCH-LOG  ] {asn 00.000129b2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 237, st 2  1[INFO: TSCH-LOG  ] {asn 00.000129c3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 237, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 156 asn 00.00012a75
-[INFO: TSCH-LOG  ] {asn 00.00012a7e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 238, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 157 asn 00.00012b3d
-[INFO: TSCH-LOG  ] {asn 00.00012b4a link  1  17   0 16  2 ch 15} drift -27 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00012b4a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 239, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 158 asn 00.00012c05
-[INFO: TSCH-LOG  ] {asn 00.00012c16 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 240, st 2  1[INFO: TSCH-LOG  ] {asn 00.00012c27 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 240, st 0  2, dr   2
-[INFO: TSCH-LOG  ] {asn 00.00012c29 link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -4, dr   4
-[INFO: App       ] Start Sending: Unicast 159 asn 00.00012ccd
-[INFO: TSCH-LOG  ] {asn 00.00012cd1 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 241, st 0  1, dr  -6
-[INFO: TSCH-LOG  ] {asn 00.00012d5f link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  13, st 0  1[INFO: App       ] Start Sending: Unicast 160 asn 00.00012d95
-[INFO: TSCH-LOG  ] {asn 00.00012d9d link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00012d9d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 242, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 161 asn 00.00012e5d
-[INFO: TSCH-LOG  ] {asn 00.00012e69 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 243, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 162 asn 00.00012f25
-[INFO: TSCH-LOG  ] {asn 00.00012f35 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00012f35 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 244, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 163 asn 00.00012fed
-[INFO: TSCH-LOG  ] {asn 00.00012ff0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 245, st 2  1[INFO: TSCH-LOG  ] {asn 00.00013001 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 245, st 2  2[INFO: TSCH-LOG  ] {asn 00.00013012 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 245, st 0  3, dr  -2
-[INFO: App       ] Start Sending: Unicast 164 asn 00.000130b5
-[INFO: TSCH-LOG  ] {asn 00.000130bc link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 246, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 165 asn 00.0001317d
-[INFO: TSCH-LOG  ] {asn 00.00013188 link  1  17   0 16  2 ch 26} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00013188 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 247, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 166 asn 00.00013245
-[INFO: TSCH-LOG  ] {asn 00.00013254 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 248, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.0001325d link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -7, dr   7
-[INFO: App       ] Start Sending: Unicast 167 asn 00.0001330d
-[INFO: TSCH-LOG  ] {asn 00.0001330f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 249, st 2  1[INFO: TSCH-LOG  ] {asn 00.00013320 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 249, st 2  2[INFO: TSCH-LOG  ] {asn 00.00013331 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00013331 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 249, st 0  3, dr  -4
-[INFO: TSCH-LOG  ] {asn 00.00013393 link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  14, st 0  1[INFO: App       ] Start Sending: Unicast 168 asn 00.000133d6
-[INFO: TSCH-LOG  ] {asn 00.000133db link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 250, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 169 asn 00.0001349f
-[INFO: TSCH-LOG  ] {asn 00.000134a7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 251, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 170 asn 00.00013568
-[INFO: TSCH-LOG  ] {asn 00.00013573 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 252, st 2  1[INFO: TSCH-LOG  ] {asn 00.00013584 link  1  17   0 16  2 ch 26} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00013584 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 252, st 0  2, dr   0
-[INFO: App       ] Start Sending: Unicast 171 asn 00.00013631
-[INFO: TSCH-LOG  ] {asn 00.0001363f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 253, st 2  1[INFO: TSCH-LOG  ] {asn 00.00013650 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 253, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 172 asn 00.000136f9
-[INFO: TSCH-LOG  ] {asn 00.000136fa link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 254, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 173 asn 00.000137c1
-[INFO: TSCH-LOG  ] {asn 00.000137c6 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 255, st 2  1[INFO: TSCH-LOG  ] {asn 00.000137d7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 255, st 2  2[INFO: TSCH-LOG  ] {asn 00.000137e8 link  1  17   0 16  2 ch 26} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000137e8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 255, st 0  3, dr   0
-[INFO: App       ] Start Sending: Unicast 174 asn 00.00013889
-[INFO: TSCH-LOG  ] {asn 00.00013891 link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -4, dr   4
-[INFO: TSCH-LOG  ] {asn 00.00013892 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   1, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 175 asn 00.00013951
-[INFO: TSCH-LOG  ] {asn 00.0001395e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   2, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.000139c7 link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  15, st 0  1[INFO: App       ] Start Sending: Unicast 176 asn 00.00013a19
-[INFO: TSCH-LOG  ] {asn 00.00013a2a link  1  17   0 16  2 ch 15} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00013a2a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   3, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 177 asn 00.00013ae1
-[INFO: TSCH-LOG  ] {asn 00.00013ae5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   4, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 178 asn 00.00013ba9
-[INFO: TSCH-LOG  ] {asn 00.00013bb1 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   5, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 179 asn 00.00013c71
-[INFO: TSCH-LOG  ] {asn 00.00013c7d link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00013c7d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   6, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.00013d38 link  0 397   0 220  1 ch 25} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: App       ] Start Sending: Unicast 180 asn 00.00013d3a
-[INFO: TSCH-LOG  ] {asn 00.00013d49 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   7, st 2  1[INFO: TSCH-LOG  ] {asn 00.00013d5a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   7, st 0  2, dr  -6
-[INFO: App       ] Start Sending: Unicast 181 asn 00.00013e02
-[INFO: TSCH-LOG  ] {asn 00.00013e04 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   8, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.00013e6e link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  16, st 0  1[INFO: App       ] Start Sending: Unicast 182 asn 00.00013ecb
-[INFO: TSCH-LOG  ] {asn 00.00013ed0 link  1  17   0 16  2 ch 26} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00013ed0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq   9, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 183 asn 00.00013f94
-[INFO: TSCH-LOG  ] {asn 00.00013f9c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  10, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 184 asn 00.0001405c
-[INFO: TSCH-LOG  ] {asn 00.00014068 link  1  17   0 16  2 ch 26} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00014068 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  11, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 185 asn 00.00014124
-[INFO: TSCH-LOG  ] {asn 00.00014134 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  12, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 186 asn 00.000141ec
-[INFO: TSCH-LOG  ] {asn 00.000141ef link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  13, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 187 asn 00.000142b4
-[INFO: TSCH-LOG  ] {asn 00.000142bb link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000142bb link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  14, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.0001436c link  0 397   0 220  1 ch 25} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: App       ] Start Sending: Unicast 188 asn 00.0001437c
-[INFO: TSCH-LOG  ] {asn 00.00014387 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  15, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 189 asn 00.00014444
-[INFO: TSCH-LOG  ] {asn 00.00014453 link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00014453 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  16, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.000144a2 link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  17, st 0  1[INFO: App       ] Start Sending: Unicast 190 asn 00.0001450c
-[INFO: TSCH-LOG  ] {asn 00.0001450e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  17, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 191 asn 00.000145d4
-[INFO: TSCH-LOG  ] {asn 00.000145da link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  18, st 2  1[INFO: TSCH-LOG  ] {asn 00.000145eb link  1  17   0 16  2 ch 25} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000145eb link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  18, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 192 asn 00.0001469c
-[INFO: TSCH-LOG  ] {asn 00.000146a6 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  19, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 193 asn 00.00014764
-[INFO: TSCH-LOG  ] {asn 00.00014772 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  20, st 0  1, dr   0
-[INFO: TSCH-LOG  ] {asn 00.00014813 link  0 397   0 220  1 ch 15} drift -23 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00014813 link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: App       ] Start Sending: Unicast 194 asn 00.0001482c
-[INFO: TSCH-LOG  ] {asn 00.0001482d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  21, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 195 asn 00.000148f5
-[INFO: TSCH-LOG  ] {asn 00.000148f9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  22, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 196 asn 00.000149bd
-[INFO: TSCH-LOG  ] {asn 00.000149c5 link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000149c5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  23, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 197 asn 00.00014a86
-[INFO: TSCH-LOG  ] {asn 00.00014a91 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  24, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.00014ad6 link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  18, st 0  1[INFO: App       ] Start Sending: Unicast 198 asn 00.00014b4f
-[INFO: TSCH-LOG  ] {asn 00.00014b5d link  1  17   0 16  2 ch 20} drift -27 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00014b5d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  25, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 199 asn 00.00014c18
-[INFO: TSCH-LOG  ] {asn 00.00014c18 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  26, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 200 asn 00.00014ce0
-[INFO: TSCH-LOG  ] {asn 00.00014ce4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  27, st 2  1[INFO: TSCH-LOG  ] {asn 00.00014cf5 link  1  17   0 16  2 ch 20} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00014cf5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  27, st 0  2, dr   2
-[INFO: RPL       ] sending a multicast-DIO with rank 276 to ff02::1a
-[INFO: TSCH-LOG  ] {asn 00.00014d20 link  2  41   0  0  0 ch 15} bc-1-0 tx LL-0485->LL-NULL, len  94, seq  19, st 0  1[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3641:b95d:22eb, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 348
-[INFO: TSCH-LOG  ] {asn 00.00014d72 link  2  41   0  0  0 ch 26} bc-1-0 rx LL-22eb->LL-NULL, len  94, seq  19, edr  -1[INFO: App       ] Start Sending: Unicast 201 asn 00.00014da8
-[INFO: TSCH-LOG  ] {asn 00.00014db0 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  28, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.00014e47 link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -6, dr   6
-[INFO: App       ] Start Sending: Unicast 202 asn 00.00014e70
-[INFO: TSCH-LOG  ] {asn 00.00014e7c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  29, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 203 asn 00.00014f38
-[INFO: TSCH-LOG  ] {asn 00.00014f48 link  1  17   0 16  2 ch 26} drift -25 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.00014f48 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  30, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.00014f7d link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  20, st 0  1[INFO: App       ] Start Sending: Unicast 204 asn 00.00015000
-[INFO: TSCH-LOG  ] {asn 00.00015003 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  31, st 0  1, dr  -2
-[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
-[INFO: RPL       ] refreshing lifetime
-[INFO: TSCH-LOG  ] {asn 00.00015054 link  2  41   0  0  0 ch 15} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq  19, edr  -6, dr   6
-[INFO: App       ] Start Sending: Unicast 205 asn 00.000150c8
-[INFO: TSCH-LOG  ] {asn 00.000150cf link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  32, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 206 asn 00.00015190
-[INFO: TSCH-LOG  ] {asn 00.0001519b link  1  17   0 16  2 ch 25} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.0001519b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  33, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 207 asn 00.00015258
-[INFO: TSCH-LOG  ] {asn 00.00015267 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  34, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 208 asn 00.00015320
-[INFO: TSCH-LOG  ] {asn 00.00015322 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  35, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 209 asn 00.000153e8
-[INFO: TSCH-LOG  ] {asn 00.000153ee link  1  17   0 16  2 ch 15} drift -26 ppm (min/max delta seen: -20/9)
-[INFO: TSCH-LOG  ] {asn 00.000153ee link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  36, st 0  1, dr  -6
-[INFO: TSCH-LOG  ] {asn 00.0001547b link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr -12, dr  12
-[INFO: App       ] Start Sending: Unicast 210 asn 00.000154b0
-[INFO: TSCH-LOG  ] {asn 00.000154ba link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  37, st 0  1, dr -10
-[INFO: App       ] Start Sending: Unicast 211 asn 00.00015578
-[INFO: TSCH-LOG  ] {asn 00.00015586 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  38, st 2  1[INFO: TSCH-LOG  ] {asn 00.00015597 link  1  17   0 16  2 ch 25} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00015597 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  38, st 0  2, dr   2
-[INFO: TSCH-LOG  ] {asn 00.000155b1 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  21, st 0  1[INFO: App       ] Start Sending: Unicast 212 asn 00.00015640
-[INFO: TSCH-LOG  ] {asn 00.00015641 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  39, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 213 asn 00.00015708
-[INFO: TSCH-LOG  ] {asn 00.0001570d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  40, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 214 asn 00.000157d0
-[INFO: TSCH-LOG  ] {asn 00.000157d9 link  1  17   0 16  2 ch 20} drift -27 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.000157d9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  41, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 215 asn 00.00015898
-[INFO: TSCH-LOG  ] {asn 00.000158a5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  42, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 216 asn 00.00015960
-[INFO: TSCH-LOG  ] {asn 00.00015971 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00015971 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  43, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 217 asn 00.00015a28
-[INFO: TSCH-LOG  ] {asn 00.00015a2c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  44, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.00015aaf link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -6, dr   6
-[INFO: App       ] Start Sending: Unicast 218 asn 00.00015af0
-[INFO: TSCH-LOG  ] {asn 00.00015af8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  45, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 219 asn 00.00015bb8
-[INFO: TSCH-LOG  ] {asn 00.00015bc4 link  1  17   0 16  2 ch 26} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00015bc4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  46, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.00015be5 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  22, st 0  1[INFO: App       ] Start Sending: Unicast 220 asn 00.00015c80
-[INFO: TSCH-LOG  ] {asn 00.00015c90 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  47, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 221 asn 00.00015d49
-[INFO: TSCH-LOG  ] {asn 00.00015d4b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  48, st 2  1[INFO: TSCH-LOG  ] {asn 00.00015d5c link  1  17   0 16  2 ch 26} drift -25 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00015d5c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  48, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 222 asn 00.00015e12
-[INFO: TSCH-LOG  ] {asn 00.00015e17 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  49, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 223 asn 00.00015edb
-[INFO: TSCH-LOG  ] {asn 00.00015ee3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  50, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.00015f56 link  0 397   0 220  1 ch 20} drift -23 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00015f56 link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -4, dr   4
-[INFO: App       ] Start Sending: Unicast 224 asn 00.00015fa4
-[INFO: TSCH-LOG  ] {asn 00.00015faf link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  51, st 0  1, dr  -8
-[INFO: App       ] Start Sending: Unicast 225 asn 00.0001606c
-[INFO: TSCH-LOG  ] {asn 00.0001607b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  52, st 0  1, dr   4
-[INFO: TSCH-LOG  ] {asn 00.0001608c link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  23, st 0  1[INFO: App       ] Start Sending: Unicast 226 asn 00.00016134
-[INFO: TSCH-LOG  ] {asn 00.00016136 link  1  17   0 16  2 ch 15} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00016136 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  53, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 227 asn 00.000161fc
-[INFO: TSCH-LOG  ] {asn 00.00016202 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  54, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 228 asn 00.000162c4
-[INFO: TSCH-LOG  ] {asn 00.000162ce link  1  17   0 16  2 ch 15} drift -25 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.000162ce link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  55, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 229 asn 00.0001638c
-[INFO: TSCH-LOG  ] {asn 00.0001639a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  56, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.000163fd link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -7, dr   7
-[INFO: App       ] Start Sending: Unicast 230 asn 00.00016454
-[INFO: TSCH-LOG  ] {asn 00.00016455 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  57, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 231 asn 00.0001651c
-[INFO: TSCH-LOG  ] {asn 00.00016521 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00016521 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  58, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.00016533 link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  24, st 0  1[INFO: App       ] Start Sending: Unicast 232 asn 00.000165e4
-[INFO: TSCH-LOG  ] {asn 00.000165ed link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  59, st 2  1[INFO: TSCH-LOG  ] {asn 00.000165fe link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  59, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 233 asn 00.000166ac
-[INFO: TSCH-LOG  ] {asn 00.000166b9 link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.000166b9 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  60, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 234 asn 00.00016774
-[INFO: TSCH-LOG  ] {asn 00.00016785 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  61, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 235 asn 00.0001683c
-[INFO: TSCH-LOG  ] {asn 00.00016840 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  62, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 236 asn 00.00016904
-[INFO: TSCH-LOG  ] {asn 00.0001690c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  63, st 2  1[INFO: TSCH-LOG  ] {asn 00.0001691d link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.0001691d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  63, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 237 asn 00.000169cd
-[INFO: TSCH-LOG  ] {asn 00.000169d8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  64, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.000169da link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  25, st 0  1[INFO: TSCH-LOG  ] {asn 00.00016a31 link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -4, dr   4
-[INFO: App       ] Start Sending: Unicast 238 asn 00.00016a94
-[INFO: TSCH-LOG  ] {asn 00.00016aa4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  65, st 2  1[INFO: TSCH-LOG  ] {asn 00.00016ab5 link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00016ab5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  65, st 0  2, dr  -4
-[INFO: App       ] Start Sending: Unicast 239 asn 00.00016b5c
-[INFO: TSCH-LOG  ] {asn 00.00016b5f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  66, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 240 asn 00.00016c24
-[INFO: TSCH-LOG  ] {asn 00.00016c2b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  67, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 241 asn 00.00016cec
-[INFO: TSCH-LOG  ] {asn 00.00016cf7 link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00016cf7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  68, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 242 asn 00.00016db4
-[INFO: TSCH-LOG  ] {asn 00.00016dc3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  69, st 2  1[INFO: TSCH-LOG  ] {asn 00.00016dd4 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  69, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 243 asn 00.00016e7c
-[INFO: TSCH-LOG  ] {asn 00.00016e7e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  70, st 0  1, dr  -4
-[INFO: TSCH-LOG  ] {asn 00.00016ed8 link  0 397   0 220  1 ch 25} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00016ed8 link  0 397   0 220  1 ch 25} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -9, dr   9
-[INFO: App       ] Start Sending: Unicast 244 asn 00.00016f45
-[INFO: TSCH-LOG  ] {asn 00.00016f4a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  71, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 245 asn 00.0001700e
-[INFO: TSCH-LOG  ] {asn 00.0001700e link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  26, st 0  1[INFO: TSCH-LOG  ] {asn 00.00017016 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  72, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 246 asn 00.000170d7
-[INFO: TSCH-LOG  ] {asn 00.000170e2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  73, st 2  1[INFO: TSCH-LOG  ] {asn 00.000170f3 link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.000170f3 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  73, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 247 asn 00.000171a0
-[INFO: TSCH-LOG  ] {asn 00.000171ae link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  74, st 2  1[INFO: TSCH-LOG  ] {asn 00.000171bf link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  74, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 248 asn 00.00017268
-[INFO: TSCH-LOG  ] {asn 00.00017269 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  75, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 249 asn 00.00017330
-[INFO: TSCH-LOG  ] {asn 00.00017335 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  76, st 2  1[INFO: TSCH-LOG  ] {asn 00.00017346 link  1  17   0 16  2 ch 15} drift -23 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00017346 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  76, st 0  2, dr  -4
-[INFO: App       ] Start Sending: Unicast 250 asn 00.000173f8
-[INFO: TSCH-LOG  ] {asn 00.00017401 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  77, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 251 asn 00.000174c0
-[INFO: TSCH-LOG  ] {asn 00.000174cd link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  78, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.0001750c link  0 397   0 220  1 ch 25} drift -21 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.0001750c link  0 397   0 220  1 ch 25} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -6, dr   6
-[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3641:b95d:22eb, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 338
-[INFO: TSCH-LOG  ] {asn 00.0001752a link  2  41   0  0  0 ch 26} bc-1-0 rx LL-22eb->LL-NULL, len  94, seq  19, edr  -1[INFO: App       ] Start Sending: Unicast 252 asn 00.00017588
-[INFO: TSCH-LOG  ] {asn 00.00017599 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  79, st 0  1, dr  -8
-[INFO: TSCH-LOG  ] {asn 00.00017642 link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  27, st 0  1[INFO: App       ] Start Sending: Unicast 253 asn 00.00017650
-[INFO: TSCH-LOG  ] {asn 00.00017654 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  80, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 254 asn 00.00017718
-[INFO: TSCH-LOG  ] {asn 00.00017720 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  81, st 2  1[INFO: TSCH-LOG  ] {asn 00.00017731 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00017731 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  81, st 0  2, dr   0
-[INFO: App       ] Start Sending: Unicast 255 asn 00.000177e0
-[INFO: TSCH-LOG  ] {asn 00.000177ec link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  82, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 256 asn 00.000178a8
-[INFO: TSCH-LOG  ] {asn 00.000178b8 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  83, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 257 asn 00.00017970
-[INFO: TSCH-LOG  ] {asn 00.00017973 link  1  17   0 16  2 ch 25} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00017973 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  84, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.000179b3 link  0 397   0 220  1 ch 15} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -7, dr   7
-[INFO: App       ] Start Sending: Unicast 258 asn 00.00017a38
-[INFO: TSCH-LOG  ] {asn 00.00017a3f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  85, st 0  1, dr  -4
-[INFO: TSCH-LOG  ] {asn 00.00017ae9 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  28, st 0  1[INFO: App       ] Start Sending: Unicast 259 asn 00.00017b00
-[INFO: TSCH-LOG  ] {asn 00.00017b0b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  86, st 2  1[INFO: TSCH-LOG  ] {asn 00.00017b1c link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  86, st 2  2[INFO: TSCH-LOG  ] {asn 00.00017b2d link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00017b2d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  86, st 0  3, dr   0
-[INFO: App       ] Start Sending: Unicast 260 asn 00.00017bc8
-[INFO: TSCH-LOG  ] {asn 00.00017bd7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  87, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 261 asn 00.00017c90
-[INFO: TSCH-LOG  ] {asn 00.00017c92 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  88, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 262 asn 00.00017d59
-[INFO: TSCH-LOG  ] {asn 00.00017d5e link  1  17   0 16  2 ch 15} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00017d5e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  89, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 263 asn 00.00017e22
-[INFO: TSCH-LOG  ] {asn 00.00017e2a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  90, st 2  1[INFO: TSCH-LOG  ] {asn 00.00017e3b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  90, st 0  2, dr   2
-[INFO: TSCH-LOG  ] {asn 00.00017e5a link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -4, dr   4
-[INFO: App       ] Start Sending: Unicast 264 asn 00.00017eeb
-[INFO: TSCH-LOG  ] {asn 00.00017ef6 link  1  17   0 16  2 ch 15} drift -26 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00017ef6 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  91, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 265 asn 00.00017fb3
-[INFO: TSCH-LOG  ] {asn 00.00017fc2 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  92, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 266 asn 00.0001807c
-[INFO: TSCH-LOG  ] {asn 00.0001807d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  93, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.0001811d link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  29, st 0  1[INFO: App       ] Start Sending: Unicast 267 asn 00.00018144
-[INFO: TSCH-LOG  ] {asn 00.00018149 link  1  17   0 16  2 ch 20} drift -23 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00018149 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  94, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 268 asn 00.0001820d
-[INFO: TSCH-LOG  ] {asn 00.00018215 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  95, st 0  1, dr  -2
-[INFO: App       ] Start Sending: Unicast 269 asn 00.000182d6
-[INFO: TSCH-LOG  ] {asn 00.000182e1 link  1  17   0 16  2 ch 20} drift -23 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.000182e1 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  96, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 270 asn 00.0001839f
-[INFO: TSCH-LOG  ] {asn 00.000183ad link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  97, st 0  1, dr  -4
-[INFO: App       ] Start Sending: Unicast 271 asn 00.00018467
-[INFO: TSCH-LOG  ] {asn 00.00018468 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  98, st 2  1[INFO: TSCH-LOG  ] {asn 00.00018479 link  1  17   0 16  2 ch 20} drift -26 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00018479 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  98, st 0  2, dr   4
-[INFO: TSCH-LOG  ] {asn 00.0001848e link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -2, dr   2
-[INFO: App       ] Start Sending: Unicast 272 asn 00.00018530
-[INFO: TSCH-LOG  ] {asn 00.00018534 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq  99, st 0  1, dr  -6
-[INFO: TSCH-LOG  ] {asn 00.000185c4 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  30, st 0  1[INFO: App       ] Start Sending: Unicast 273 asn 00.000185f7
-[INFO: TSCH-LOG  ] {asn 00.00018600 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 100, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 274 asn 00.000186bf
-[INFO: TSCH-LOG  ] {asn 00.000186cc link  1  17   0 16  2 ch 26} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.000186cc link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 101, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 275 asn 00.00018787
-[INFO: TSCH-LOG  ] {asn 00.00018798 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 102, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 276 asn 00.0001884f
-[INFO: TSCH-LOG  ] {asn 00.00018853 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 103, st 2  1[INFO: TSCH-LOG  ] {asn 00.00018864 link  1  17   0 16  2 ch 26} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00018864 link  1  17   0 16  2 ch 26} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 103, st 0  2, dr  -2
-[INFO: App       ] Start Sending: Unicast 277 asn 00.00018917
-[INFO: TSCH-LOG  ] {asn 00.0001891f link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 104, st 0  1, dr   2
-[INFO: App       ] Start Sending: Unicast 278 asn 00.000189df
-[INFO: TSCH-LOG  ] {asn 00.000189eb link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 105, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.00018a6b link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  31, st 0  1[INFO: App       ] Start Sending: Unicast 279 asn 00.00018aa7
-[INFO: TSCH-LOG  ] {asn 00.00018ab7 link  1  17   0 16  2 ch 25} drift -25 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00018ab7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 106, st 0  1, dr   2
-[INFO: TSCH-LOG  ] {asn 00.00018ac2 link  0 397   0 220  1 ch 20} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -4, dr   4
-[INFO: App       ] Start Sending: Unicast 280 asn 00.00018b6f
-[INFO: TSCH-LOG  ] {asn 00.00018b72 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 107, st 0  1, dr  -6
-[INFO: App       ] Start Sending: Unicast 281 asn 00.00018c37
-[INFO: TSCH-LOG  ] {asn 00.00018c3e link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 108, st 0  1, dr   0
-[INFO: App       ] Start Sending: Unicast 282 asn 00.00018cff
-[INFO: TSCH-LOG  ] {asn 00.00018d0a link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 109, st 2  1[INFO: TSCH-LOG  ] {asn 00.00018d1b link  1  17   0 16  2 ch 25} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00018d1b link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 109, st 0  2, dr   2
-[INFO: App       ] Start Sending: Unicast 283 asn 00.00018dc7
-[INFO: TSCH-LOG  ] {asn 00.00018dd6 link  1  17   0 16  2 ch 15} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 110, st 2  1[INFO: TSCH-LOG  ] {asn 00.00018de7 link  1  17   0 16  2 ch 25} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 110, st 0  2, dr  -4
-[INFO: App       ] Start Sending: Unicast 284 asn 00.00018e8f
-[INFO: TSCH-LOG  ] {asn 00.00018e91 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 111, st 0  1, dr   4
-[INFO: App       ] Start Sending: Unicast 285 asn 00.00018f58
-[INFO: TSCH-LOG  ] {asn 00.00018f5d link  1  17   0 16  2 ch 20} drift -24 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.00018f5d link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 112, st 0  1, dr  -2
-[INFO: TSCH-LOG  ] {asn 00.00018f69 link  0 397   0 220  1 ch 26} bc-0-0 rx LL-1fdc->LL-NULL, len  35, seq  19, edr  -5, dr   5
-[INFO: App       ] Start Sending: Unicast 286 asn 00.00019021
-[INFO: TSCH-LOG  ] {asn 00.00019029 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 113, st 0  1, dr  -6
-[INFO: TSCH-LOG  ] {asn 00.0001909f link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq  32, st 0  1[INFO: App       ] Start Sending: Unicast 287 asn 00.000190ea
-[INFO: TSCH-LOG  ] {asn 00.000190f5 link  1  17   0 16  2 ch 20} drift -25 ppm (min/max delta seen: -20/12)
-[INFO: TSCH-LOG  ] {asn 00.000190f5 link  1  17   0 16  2 ch 20} uc-1-0 tx LL-0485->LL-1fdc, len  50, seq 114, st 0  1, dr   2
+[INFO: TSCH-LOG  ] {asn 00.00008cc7 link  2  41   0  0  0 ch 20} bc-1-0 rx LL-0782->LL-NULL, len  94, seq 133, edr -16, dr  16
+[INFO: App       ] Start Sending: 160 asn 00.00008d63
+[INFO: App       ] Not reachable yet[INFO: RPL       ] sending a DAO seqno 242, tx count 1, lifetime 30, prefix fd00::212:4b00:a63:485 to fd00::f6ce:3623:9010:1fdc, parent fe80::f6ce:36a2:606e:782
+[INFO: TSCH-LOG  ] {asn 00.00008d8e link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  91, seq 159, st 2  1[INFO: TSCH-LOG  ] {asn 00.00008d9f link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  91, seq 159, st 0  2, dr -10
+[INFO: TSCH-LOG  ] {asn 00.00008da1 link  0 397   0 130  1 ch 26} bc-0-0 rx LL-0782->LL-NULL, len  35, seq 133, edr  -6, dr   6
+[INFO: TSCH-LOG  ] {asn 00.00008da4 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 131, st 0  1[INFO: RPL       ] received a DAO-ACK with seqno 242 (242 242) and status 0 from fd00::f6ce:3623:9010:1fdc
+[INFO: TSCH-LOG  ] {asn 00.00008e08 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-0782->LL-0485, len  74, seq 103, edr   8, dr  -8
+[INFO: App       ] Start Sending: 161 asn 00.00008e2c
+[INFO: App       ] Unicast 161
+[INFO: TSCH-LOG  ] {asn 00.00008e38 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 160, st 0  1, dr  -8
+[INFO: App       ] Received downward: Unicast 161 asn 00.00008e80 [INFO: TSCH-LOG  ] {asn 00.00008e7f link  1  17   0 14  3 ch 26} drift -38 ppm (min/max delta seen: -10/16)
+[INFO: TSCH-LOG  ] {asn 00.00008e7f link  1  17   0 14  3 ch 26} uc-1-0 rx LL-0782->LL-0485, len  83, seq 105, edr  -9, dr   9
+[INFO: TSCH-LOG  ] {asn 00.00008e90 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-0782->LL-0485, len  83, seq 105, edr   1, dr  -1
+[INFO: TSCH-LOG  ] {asn 00.00008ea1 link  1  17   0 14  3 ch 15} uc-1-0 rx LL-0782->LL-0485, len  83, seq 105, edr   2, dr  -2
+[INFO: App       ] Start Sending: 162 asn 00.00008ef4
+[INFO: App       ] Unicast 162
+[INFO: TSCH-LOG  ] {asn 00.00008f04 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 161, st 2  1[INFO: TSCH-LOG  ] {asn 00.00008f15 link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 161, st 0  2, dr  -2
+[INFO: TSCH-LOG  ] {asn 00.00008f31 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 132, st 0  1[INFO: App       ] Received downward: Unicast 162 asn 00.00008f5d [INFO: TSCH-LOG  ] {asn 00.00008f5c link  1  17   0 14  3 ch 20} uc-1-0 rx LL-0782->LL-0485, len  83, seq 107, edr  -5, dr   5
+[INFO: App       ] Start Sending: 163 asn 00.00008fbd
+[INFO: App       ] Unicast 163
+[INFO: TSCH-LOG  ] {asn 00.00008fbf link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 162, st 2  1[INFO: TSCH-LOG  ] {asn 00.00008fd0 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 162, st 2  2[INFO: TSCH-LOG  ] {asn 00.00008fd2 link  2  41   0  0  0 ch 26} !failed to parse frame 0 0[INFO: TSCH-LOG  ] {asn 00.00008fe1 link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 162, st 0  3, dr  -6
+[INFO: App       ] Received downward: Unicast 163 asn 00.00009029 [INFO: TSCH-LOG  ] {asn 00.00009028 link  1  17   0 14  3 ch 20} drift -35 ppm (min/max delta seen: -10/16)
+[INFO: TSCH-LOG  ] {asn 00.00009028 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-0782->LL-0485, len  83, seq 109, edr  -7, dr   7
+[INFO: App       ] Start Sending: 164 asn 00.00009086
+[INFO: App       ] Unicast 164
+[INFO: TSCH-LOG  ] {asn 00.0000908b link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 163, st 0  1, dr  -6
+[INFO: TSCH-LOG  ] {asn 00.000090be link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 133, st 0  1[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:364c:f44e:280c, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 586
+[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:364c:f44e:280c
+[INFO: TSCH-LOG  ] {asn 00.000090c8 link  2  41   0  0  0 ch 15} bc-1-0 rx LL-280c->LL-NULL, len  94, seq 109, edr   0[INFO: App       ] Received downward: Unicast 164 asn 00.000090f5 [INFO: TSCH-LOG  ] {asn 00.000090f4 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-0782->LL-0485, len  83, seq 111, edr  -8, dr   8
+[INFO: TSCH-LOG  ] {asn 00.00009116 link  1  17   0 14  3 ch 25} uc-1-0 rx LL-0782->LL-0485, len  83, seq 111, edr   0, dr   0
+[INFO: RPL       ] sending a unicast-DIO with rank 1167 to fe80::f6ce:364c:f44e:280c
+[INFO: TSCH-LOG  ] {asn 00.00009125 link  1  17   0 12  2 ch 20} uc-1-0 tx LL-0485->LL-280c, len 100, seq 164, st 0  1
+[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:364c:f44e:280c
+[INFO: App       ] Start Sending: 165 asn 00.0000914f
+[INFO: App       ] Unicast 165
+[INFO: TSCH-LOG  ] {asn 00.00009157 link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 165, st 0  1, dr  -6
+[INFO: App       ] Received downward: Unicast 165 asn 00.0000919f [INFO: TSCH-LOG  ] {asn 00.0000919e link  1  17   0 14  3 ch 25} uc-1-0 rx LL-0782->LL-0485, len  83, seq 113, edr  -8, dr   8
+[INFO: App       ] Start Sending: 166 asn 00.00009217
+[INFO: App       ] Unicast 166
+[INFO: TSCH-LOG  ] {asn 00.00009223 link  1  17   0 11  2 ch 25} drift -37 ppm (min/max delta seen: -10/16)
+[INFO: TSCH-LOG  ] {asn 00.00009223 link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 166, st 0  1, dr  -6
+[INFO: TSCH-LOG  ] {asn 00.0000924b link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 134, st 0  1[INFO: RPL       ] sending a unicast-DIO with rank 1148 to fe80::f6ce:364c:f44e:280c
+[INFO: TSCH-LOG  ] {asn 00.0000928a link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len 100, seq 167, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000929b link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len 100, seq 167, st 2  2[INFO: App       ] Received downward: Unicast 166 asn 00.0000929e [INFO: TSCH-LOG  ] {asn 00.0000929d link  1  17   0 14  3 ch 15} uc-1-0 rx LL-0782->LL-0485, len  83, seq 115, edr  -6, dr   6
+[INFO: TSCH-LOG  ] {asn 00.000092ac link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len 100, seq 167, st 2  3[INFO: TSCH-LOG  ] {asn 00.000092bd link  1  17   0 12  2 ch 20} uc-1-0 tx LL-0485->LL-280c, len 100, seq 167, st 0  4
+[INFO: RPL       ] parent switch: fe80::f6ce:36a2:606e:782 -> fe80::f6ce:364c:f44e:280c
+[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: reachable, MOP 1 OCP 1 rank 925 max-rank 1949, dioint 12, nbr count 3 (Parent switch)
+[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,  1111 =>  1239 -- 16 r  f  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:36a2:606e:782  941,   207 =>  1148 -- 15   af  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:364c:f44e:280c  586,   339 =>   925 --  5  bafp (last tx 0 min ago)
+[INFO: RPL       ] nbr: end of list[INFO: App       ] Start Sending: 167 asn 00.000092e0
+[INFO: App       ] Unicast 167
+[INFO: TSCH-LOG  ] {asn 00.000092f0 link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 168, st 2  1[INFO: TSCH-LOG  ] {asn 00.00009301 link  1  17   0 12  2 ch 20} uc-1-0 tx LL-0485->LL-280c, len  58, seq 168, st 0  2, dr -10
+[INFO: App       ] Received downward: Unicast 167 asn 00.00009359 [INFO: TSCH-LOG  ] {asn 00.00009358 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-0782->LL-0485, len  83, seq 116, edr  -8[INFO: App       ] Start Sending: 168 asn 00.000093a9
+[INFO: App       ] Unicast 168
+[INFO: TSCH-LOG  ] {asn 00.000093ab link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 169, st 0  1, dr -10
+[INFO: TSCH-LOG  ] {asn 00.000093d8 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 135, st 0  1[INFO: App       ] Start Sending: 169 asn 00.00009472
+[INFO: App       ] Unicast 169
+[INFO: TSCH-LOG  ] {asn 00.00009477 link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 170, st 2  1[INFO: TSCH-LOG  ] {asn 00.00009488 link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 170, st 2  2[INFO: TSCH-LOG  ] {asn 00.00009499 link  1  17   0 12  2 ch 20} uc-1-0 tx LL-0485->LL-280c, len  58, seq 170, st 2  3[INFO: TSCH-LOG  ] {asn 00.000094aa link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 170, st 2  4[INFO: TSCH-LOG  ] {asn 00.000094bb link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 170, st 2  5[INFO: TSCH-LOG  ] {asn 00.000094cc link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 170, st 2  6תר[INFO: TSCH-LOG  ] {asn 00.000094ee link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 170, st 2  7[INFO: RPL       ] sending a DAO seqno 243, tx count 1, lifetime 30, prefix fd00::212:4b00:a63:485 to fd00::f6ce:3623:9010:1fdc, parent fe80::f6ce:364c:f44e:280c
+[INFO: TSCH-LOG  ] {asn 00.000094ff link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 170, st 2  8
+[INFO: TSCH-LOG  ] {asn 00.00009521 link  1  17   0 12  2 ch 20} drift -33 ppm (min/max delta seen: -10/16)
+[INFO: TSCH-LOG  ] {asn 00.00009521 link  1  17   0 12  2 ch 20} uc-1-0 tx LL-0485->LL-280c, len  91, seq 171, st 0  1, dr  -2
+[INFO: App       ] Start Sending: 170 asn 00.0000953b
+[INFO: App       ] Unicast 170
+[INFO: TSCH-LOG  ] {asn 00.00009543 link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 172, st 2  1
+[INFO: TSCH-LOG  ] {asn 00.00009554 link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 172, st 2  2[INFO: TSCH-LOG  ] {asn 00.00009565 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 136, st 0  1[INFO: TSCH-LOG  ] {asn 00.00009576 link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 172, st 2  3[INFO: TSCH-LOG  ] {asn 00.00009587 link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 172, st 2  4תר[INFO: TSCH-LOG  ] {asn 00.00009598 link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 172, st 2  5[INFO: TSCH-LOG  ] {asn 00.0000959a link  1  17   0 14  3 ch 25} !failed to parse frame 0 0תר[INFO: TSCH-LOG  ] {asn 00.000095a9 link  1  17   0 12  2 ch 20} uc-1-0 tx LL-0485->LL-280c, len  58, seq 172, st 2  6[INFO: TSCH-LOG  ] {asn 00.000095ba link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 172, st 2  7[INFO: TSCH-LOG  ] {asn 00.000095dc link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 172, st 2  8
+[INFO: App       ] Start Sending: 171 asn 00.00009603
+[INFO: App       ] Unicast 171
+[INFO: TSCH-LOG  ] {asn 00.0000960f link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 173, st 2  1[INFO: TSCH-LOG  ] {asn 00.00009620 link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 173, st 2  2תר[INFO: TSCH-LOG  ] {asn 00.00009642 link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 173, st 2  3[INFO: TSCH-LOG  ] {asn 00.00009653 link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 173, st 2  4תר[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:364f:17c3:5a2a, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 635
+[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:364f:17c3:5a2a
+[INFO: TSCH-LOG  ] {asn 00.00009663 link  2  41   0  0  0 ch 20} bc-1-0 rx LL-5a2a->LL-NULL, len  94, seq 116, edr -12
+[INFO: TSCH-LOG  ] {asn 00.00009664 link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 173, st 2  5[INFO: TSCH-LOG  ] {asn 00.00009686 link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 173, st 2  6[INFO: TSCH-LOG  ] {asn 00.000096a8 link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 173, st 2  7[INFO: TSCH-LOG  ] {asn 00.000096ca link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 173, st 2  8
+[INFO: RPL       ] parent switch: fe80::f6ce:364c:f44e:280c -> fe80::f6ce:36a2:606e:782
+[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: reachable, MOP 1 OCP 1 rank 1148 max-rank 1919, dioint 12, nbr count 4 (Parent switch)
+[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,  1111 =>  1239 -- 16 r  f  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:36a2:606e:782  941,   207 =>  1148 -- 15  bafp (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:364c:f44e:280c  586,   885 =>  1471 -- 16   af  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:364f:17c3:5a2a  635,   384 =>  1019 --  0   a   (no tx, better since 0 min)
+[INFO: RPL       ] nbr: end of list
+[INFO: App       ] Start Sending: 172 asn 00.000096d3
+[INFO: App       ] Unicast 172
+[INFO: TSCH-LOG  ] {asn 00.000096da link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  58, seq 174, st 2  1[INFO: TSCH-LOG  ] {asn 00.000096eb link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 174, st 2  2[INFO: TSCH-LOG  ] {asn 00.000096f2 link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 137, st 0  1[INFO: TSCH-LOG  ] {asn 00.000096fc link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 174, st 2  3[INFO: TSCH-LOG  ] {asn 00.0000970d link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 174, st 2  4[INFO: TSCH-LOG  ] {asn 00.0000971e link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  58, seq 174, st 2  5תר[INFO: TSCH-LOG  ] {asn 00.00009740 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 174, st 2  6[INFO: TSCH-LOG  ] {asn 00.00009751 link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 174, st 2  7
+[INFO: RPL       ] sending a unicast-DIO with rank 1148 to fe80::f6ce:364f:17c3:5a2a
+[INFO: TSCH-LOG  ] {asn 00.0000975f link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len 100, seq 175, st 0  1
+[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:364f:17c3:5a2a
+[INFO: TSCH-LOG  ] {asn 00.00009773 link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 174, st 2  8
+[INFO: App       ] Start Sending: 173 asn 00.0000979c
+[INFO: App       ] Unicast 173
+[INFO: TSCH-LOG  ] {asn 00.000097a6 link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  58, seq 176, st 2  1[INFO: RPL       ] sending a unicast-DIO with rank 1383 to fe80::f6ce:364f:17c3:5a2a
+[INFO: TSCH-LOG  ] {asn 00.000097c5 link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len 100, seq 177, st 2  1תר[INFO: TSCH-LOG  ] {asn 00.000097c8 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 176, st 2  2תר[INFO: TSCH-LOG  ] {asn 00.000097d6 link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len 100, seq 177, st 0  2
+[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::f6ce:364f:17c3:5a2a
+[INFO: TSCH-LOG  ] {asn 00.000097ea link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  58, seq 176, st 2  3[INFO: TSCH-LOG  ] {asn 00.0000980c link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 176, st 2  4[INFO: TSCH-LOG  ] {asn 00.0000981d link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 176, st 2  5[INFO: TSCH-LOG  ] {asn 00.0000982e link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  58, seq 176, st 2  6[INFO: RPL       ] sending a unicast-DIO with rank 1383 to fe80::f6ce:364f:17c3:5a2a
+[INFO: TSCH-LOG  ] {asn 00.0000983f link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 176, st 2  7[INFO: TSCH-LOG  ] {asn 00.0000984d link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len 100, seq 178, st 0  1
+[INFO: RPL       ] parent switch: fe80::f6ce:36a2:606e:782 -> fe80::f6ce:364f:17c3:5a2a
+[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: reachable, MOP 1 OCP 1 rank 921 max-rank 1919, dioint 12, nbr count 4 (Parent switch)
+[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,  1111 =>  1239 -- 16 r  f  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:36a2:606e:782  941,   442 =>  1383 -- 16   af  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:364c:f44e:280c  586,   885 =>  1471 -- 16   af  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:364f:17c3:5a2a  635,   286 =>   921 --  4  bafp (last tx 0 min ago)
+[INFO: RPL       ] nbr: end of list[INFO: TSCH-LOG  ] {asn 00.00009861 link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 176, st 2  8
+[INFO: App       ] Start Sending: 174 asn 00.00009865
+[INFO: App       ] Unicast 174
+[INFO: TSCH-LOG  ] {asn 00.0000986f link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 179, st 0  1, dr  10
+[INFO: TSCH-LOG  ] {asn 00.0000987f link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 138, st 0  1תר[INFO: App       ] Start Sending: 175 asn 00.0000992d
+[INFO: App       ] Unicast 175
+[INFO: TSCH-LOG  ] {asn 00.0000993b link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 180, st 0  1, dr  -8
+[INFO: App       ] Start Sending: 176 asn 00.000099f6
+[INFO: App       ] Unicast 176
+[INFO: TSCH-LOG  ] {asn 00.00009a07 link  1  17   0  8  2 ch 25} drift -74 ppm (min/max delta seen: -10/16)
+[INFO: TSCH-LOG  ] {asn 00.00009a07 link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 181, st 0  1, dr -12
+[INFO: TSCH-LOG  ] {asn 00.00009a0c link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 139, st 0  1[INFO: RPL       ] sending a DAO seqno 244, tx count 1, lifetime 30, prefix fd00::212:4b00:a63:485 to fd00::f6ce:3623:9010:1fdc, parent fe80::f6ce:364f:17c3:5a2a
+[INFO: TSCH-LOG  ] {asn 00.00009ab1 link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len  91, seq 182, st 0  1, dr   6
+[INFO: App       ] Start Sending: 177 asn 00.00009abf
+[INFO: App       ] Unicast 177
+[INFO: TSCH-LOG  ] {asn 00.00009ac2 link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 183, st 2  1[INFO: TSCH-LOG  ] {asn 00.00009ad3 link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 183, st 0  2, dr  -2
+[INFO: RPL       ] received a DAO-ACK with seqno 244 (244 244) and status 0 from fd00::f6ce:3623:9010:1fdc
+[INFO: TSCH-LOG  ] {asn 00.00009b2e link  1  17   0 14  3 ch 25} uc-1-0 rx LL-5a2a->LL-0485, len  66, seq  82, edr -23, dr  23
+[INFO: TSCH-LOG  ] {asn 00.00009b3e link  0 397   0 42  1 ch 20} !failed to parse frame 0 0[INFO: App       ] Received downward: Unicast 177 asn 00.00009b40 [INFO: TSCH-LOG  ] {asn 00.00009b3f link  1  17   0 14  3 ch 26} uc-1-0 rx LL-5a2a->LL-0485, len  75, seq  83, edr   2, dr  -2
+[INFO: TSCH-LOG  ] {asn 00.00009b50 link  1  17   0 14  3 ch 20} uc-1-0 rx LL-5a2a->LL-0485, len  75, seq  83, edr  -3, dr   3
+[INFO: App       ] Start Sending: 178 asn 00.00009b88
+[INFO: App       ] Unicast 178
+[INFO: TSCH-LOG  ] {asn 00.00009b8e link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 184, st 2  1[INFO: TSCH-LOG  ] {asn 00.00009b99 link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 140, st 0  1תר[INFO: TSCH-LOG  ] {asn 00.00009b9f link  1  17   0  8  2 ch 25} drift -26 ppm (min/max delta seen: -12/23)
+[INFO: TSCH-LOG  ] {asn 00.00009b9f link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 184, st 0  2, dr  -2
+[INFO: App       ] Received downward: Unicast 178 asn 00.00009bea [INFO: TSCH-LOG  ] {asn 00.00009be9 link  1  17   0 14  3 ch 15} uc-1-0 rx LL-5a2a->LL-0485, len  75, seq  85, edr  -3, dr   3
+[INFO: App       ] Start Sending: 179 asn 00.00009c51
+[INFO: App       ] Unicast 179
+[INFO: TSCH-LOG  ] {asn 00.00009c5a link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 185, st 2  1[INFO: TSCH-LOG  ] {asn 00.00009c6b link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 185, st 2  2[INFO: TSCH-LOG  ] {asn 00.00009c7c link  1  17   0  8  2 ch 26} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 185, st 2  3[INFO: TSCH-LOG  ] {asn 00.00009c8d link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 185, st 2  4[INFO: TSCH-LOG  ] {asn 00.00009caf link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 185, st 2  5[INFO: TSCH-LOG  ] {asn 00.00009cd1 link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 185, st 2  6[INFO: TSCH-LOG  ] {asn 00.00009ce2 link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 185, st 2  7[INFO: TSCH-LOG  ] {asn 00.00009cf3 link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 185, st 2  8
+[INFO: App       ] Start Sending: 180 asn 00.00009d19
+[INFO: App       ] Unicast 180
+[INFO: TSCH-LOG  ] {asn 00.00009d26 link  0 397   0 133  1 ch 20} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 141, st 0  1[INFO: TSCH-LOG  ] {asn 00.00009d37 link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 186, st 2  1[INFO: TSCH-LOG  ] {asn 00.00009d59 link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 186, st 2  2[INFO: TSCH-LOG  ] {asn 00.00009d6a link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 186, st 2  3תר[INFO: TSCH-LOG  ] {asn 00.00009d8c link  1  17   0  8  2 ch 26} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 186, st 2  4[INFO: TSCH-LOG  ] {asn 00.00009d9d link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 186, st 2  5[INFO: TSCH-LOG  ] {asn 00.00009dae link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 186, st 2  6[INFO: TSCH-LOG  ] {asn 00.00009dbf link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 186, st 2  7[INFO: TSCH-LOG  ] {asn 00.00009dd0 link  1  17   0  8  2 ch 26} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 186, st 2  8
+[INFO: TSCH-LOG  ] {asn 00.00009dd6 link  1  17   0 14  3 ch 25} !failed to parse frame 0 0תר[INFO: App       ] Start Sending: 181 asn 00.00009de2
+[INFO: App       ] Unicast 181
+[INFO: TSCH-LOG  ] {asn 00.00009df2 link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 187, st 2  1[INFO: TSCH-LOG  ] {asn 00.00009e14 link  1  17   0  8  2 ch 26} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 187, st 2  2[INFO: TSCH-LOG  ] {asn 00.00009e36 link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 187, st 2  3[INFO: TSCH-LOG  ] {asn 00.00009e47 link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 187, st 2  4[INFO: TSCH-LOG  ] {asn 00.00009e69 link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 187, st 2  5[INFO: TSCH-LOG  ] {asn 00.00009e7a link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 187, st 2  6תר[INFO: TSCH-LOG  ] {asn 00.00009e9c link  1  17   0  8  2 ch 26} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 187, st 2  7תר[INFO: App       ] Start Sending: 182 asn 00.00009eab
+[INFO: App       ] Unicast 182
+[INFO: TSCH-LOG  ] {asn 00.00009ead link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 187, st 2  8
+[INFO: TSCH-LOG  ] {asn 00.00009eb3 link  0 397   0 133  1 ch 15} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 142, st 0  1[INFO: TSCH-LOG  ] {asn 00.00009ebe link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 188, st 2  1תר[INFO: TSCH-LOG  ] {asn 00.00009ecf link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 188, st 2  2[INFO: TSCH-LOG  ] {asn 00.00009ef1 link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 188, st 2  3[INFO: TSCH-LOG  ] {asn 00.00009f13 link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 188, st 2  4[INFO: TSCH-LOG  ] {asn 00.00009f24 link  1  17   0  8  2 ch 26} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 188, st 2  5תר[INFO: TSCH-LOG  ] {asn 00.00009f35 link  1  17   0  8  2 ch 20} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 188, st 2  6[INFO: TSCH-LOG  ] {asn 00.00009f46 link  1  17   0  8  2 ch 15} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 188, st 2  7תר[INFO: TSCH-LOG  ] {asn 00.00009f57 link  1  17   0  8  2 ch 25} uc-1-0 tx LL-0485->LL-5a2a, len  58, seq 188, st 2  8
+[INFO: RPL       ] parent switch: fe80::f6ce:364f:17c3:5a2a -> fe80::f6ce:364c:f44e:280c
+[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: reachable, MOP 1 OCP 1 rank 1471 max-rank 1889, dioint 12, nbr count 4 (Parent switch)
+[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,  1111 =>  1239 -- 16 r  f  (last tx 1 min ago, better since 0 min)
+[INFO: RPL       ] nbr: fe80::f6ce:36a2:606e:782  941,   653 =>  1594 -- 16   af  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:364c:f44e:280c  586,   885 =>  1471 -- 16  bafp (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:364f:17c3:5a2a  635,  1032 =>  1667 -- 16    f  (last tx 0 min ago)
+[INFO: RPL       ] nbr: end of list[INFO: App       ] Start Sending: 183 asn 00.00009f74
+[INFO: App       ] Unicast 183
+[INFO: TSCH-LOG  ] {asn 00.00009f7d link  1  17   0 12  2 ch 20} uc-1-0 tx LL-0485->LL-280c, len  58, seq 189, st 2  1[INFO: TSCH-LOG  ] {asn 00.00009f8e link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 189, st 2  2תר[INFO: TSCH-LOG  ] {asn 00.00009f9f link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 189, st 2  3[INFO: TSCH-LOG  ] {asn 00.00009fb0 link  1  17   0 12  2 ch 26} uc-1-0 tx LL-0485->LL-280c, len  58, seq 189, st 2  4תר[INFO: TSCH-LOG  ] {asn 00.00009fd2 link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 189, st 2  5תר[INFO: TSCH-LOG  ] {asn 00.00009fe3 link  1  17   0 12  2 ch 25} uc-1-0 tx LL-0485->LL-280c, len  58, seq 189, st 2  6[INFO: App       ] Received downward: Unicast 182 asn 00.00009ff7 [INFO: TSCH-LOG  ] {asn 00.00009ff6 link  1  17   0 14  3 ch 25} uc-1-0 rx LL-5a2a->LL-0485, len  75, seq  89, edr  -2[INFO: TSCH-LOG  ] {asn 00.0000a005 link  1  17   0 12  2 ch 20} uc-1-0 tx LL-0485->LL-280c, len  58, seq 189, st 2  7תר[INFO: TSCH-LOG  ] {asn 00.0000a016 link  1  17   0 12  2 ch 15} uc-1-0 tx LL-0485->LL-280c, len  58, seq 189, st 2  8
+[INFO: RPL       ] parent switch: fe80::f6ce:364c:f44e:280c -> fe80::f6ce:36a2:606e:782
+[WARN: RPL       ] significant rank update 1078->1594
+[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: reachable, MOP 1 OCP 1 rank 1594 max-rank 1889, dioint 12, nbr count 4 (Parent switch)
+[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,  1111 =>  1239 -- 16 r  f  (last tx 1 min ago, better since 0 min)
+[INFO: RPL       ] nbr: fe80::f6ce:36a2:606e:782  941,   653 =>  1594 -- 16  bafp (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:364c:f44e:280c  586,  1052 =>  1638 -- 16    f  (last tx 0 min ago)
+[INFO: RPL       ] nbr: fe80::f6ce:364f:17c3:5a2a  635,  1032 =>  1667 -- 16    f  (last tx 0 min ago)
+[INFO: RPL       ] nbr: end of list[INFO: App       ] Start Sending: 184 asn 00.0000a03c
+[INFO: App       ] Unicast 184
+[INFO: TSCH-LOG  ] {asn 00.0000a040 link  0 397   0 133  1 ch 25} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 143, st 0  1[INFO: TSCH-LOG  ] {asn 00.0000a048 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 190, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000a059 link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 190, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000a06a link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  58, seq 190, st 2  3תר[INFO: TSCH-LOG  ] {asn 00.0000a07b link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 190, st 2  4[INFO: TSCH-LOG  ] {asn 00.0000a09d link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 190, st 2  5תר[INFO: TSCH-LOG  ] {asn 00.0000a0ae link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  58, seq 190, st 2  6[INFO: TSCH-LOG  ] {asn 00.0000a0bf link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 190, st 2  7[INFO: TSCH-LOG  ] {asn 00.0000a0d0 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 190, st 2  8
+[INFO: RPL       ] sending a DAO seqno 245, tx count 1, lifetime 30, prefix fd00::212:4b00:a63:485 to fd00::f6ce:3623:9010:1fdc, parent fe80::f6ce:36a2:606e:782
+[INFO: TSCH-LOG  ] {asn 00.0000a103 link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  91, seq 191, st 2  1
+[INFO: App       ] Start Sending: 185 asn 00.0000a105
+[INFO: App       ] Unicast 185
+[INFO: TSCH-LOG  ] {asn 00.0000a125 link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  91, seq 191, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000a136 link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  91, seq 191, st 2  3[INFO: TSCH-LOG  ] {asn 00.0000a147 link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  91, seq 191, st 2  4
+[INFO: TSCH-LOG  ] {asn 00.0000a158 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  91, seq 191, st 2  5תר[INFO: TSCH-LOG  ] {asn 00.0000a169 link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  91, seq 191, st 2  6[INFO: TSCH-LOG  ] {asn 00.0000a17a link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  91, seq 191, st 2  7[INFO: TSCH-LOG  ] {asn 00.0000a19c link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  91, seq 191, st 2  8
+[INFO: RPL       ] parent switch: fe80::f6ce:36a2:606e:782 -> (NULL IP addr)
+[WARN: RPL       ] no parent, scheduling periodic DIS, will leave if no parent is found
+[INFO: RPL       ] nbr: own state, addr fd00::212:4b00:a63:485, DAG state: initialized, MOP 1 OCP 1 rank 65535 max-rank 1889, dioint 12, nbr count 4 (Parent switch)
+[INFO: RPL       ] nbr: fe80::f6ce:3623:9010:1fdc  128,  1111 =>  1239 -- 16 r  f  (last tx 1 min ago, better since 0 min)
+[INFO: RPL       ] nbr: fe80::f6ce:36a2:606e:782  941,  1014 =>  1955 -- 16    f  (last tx 0 min ago, better since 0 min)
+[INFO: RPL       ] nbr: fe80::f6ce:364c:f44e:280c  586,  1052 =>  1638 -- 16    f  (last tx 0 min ago, better since 0 min)
+[INFO: RPL       ] nbr: fe80::f6ce:364f:17c3:5a2a  635,  1032 =>  1667 -- 16    f  (last tx 0 min ago, better since 0 min)
+[INFO: RPL       ] nbr: end of list[INFO: TSCH-LOG  ] {asn 00.0000a1ad link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 192, st 2  1[INFO: TSCH-LOG  ] {asn 00.0000a1cd link  0 397   0 133  1 ch 26} bc-0-0 tx LL-0485->LL-NULL, len  35, seq 144, st 0  1
+[INFO: App       ] Start Sending: 186 asn 00.0000a1cf
+[INFO: App       ] Not reachable yet
+[INFO: TSCH-LOG  ] {asn 00.0000a1cf link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 192, st 2  2[INFO: TSCH-LOG  ] {asn 00.0000a1f1 link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 192, st 2  3[INFO: TSCH-LOG  ] {asn 00.0000a202 link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  58, seq 192, st 2  4[INFO: TSCH-LOG  ] {asn 00.0000a213 link  1  17   0 11  2 ch 25} uc-1-0 tx LL-0485->LL-0782, len  58, seq 192, st 2  5[INFO: TSCH-LOG  ] {asn 00.0000a224 link  1  17   0 11  2 ch 26} uc-1-0 tx LL-0485->LL-0782, len  58, seq 192, st 2  6[INFO: TSCH-LOG  ] {asn 00.0000a235 link  1  17   0 11  2 ch 20} uc-1-0 tx LL-0485->LL-0782, len  58, seq 192, st 2  7[INFO: TSCH-LOG  ] {asn 00.0000a246 link  1  17   0 11  2 ch 15} uc-1-0 tx LL-0485->LL-0782, len  58, seq 192, st 2  8
+[INFO: App       ] Start Sending: 187 asn 00.0000a298
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 188 asn 00.0000a360
+[INFO: App       ] Not reachable yet[WARN: RPL       ] rpl_icmp6_dao_output: no preferred parent, skip sending DAO[INFO: App       ] Start Sending: 189 asn 00.0000a429
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 190 asn 00.0000a4f2
+[INFO: App       ] Not reachable yet[WARN: RPL       ] rpl_icmp6_dao_output: no preferred parent, skip sending DAO
+[INFO: App       ] Start Sending: 191 asn 00.0000a5bb
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 192 asn 00.0000a684
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 193 asn 00.0000a74c
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 194 asn 00.0000a815
+[INFO: App       ] Not reachable yet[WARN: RPL       ] rpl_icmp6_dao_output: no preferred parent, skip sending DAO[INFO: App       ] Start Sending: 195 asn 00.0000a8de
+[INFO: App       ] Not reachable yet[WARN: RPL       ] rpl_icmp6_dao_output: no preferred parent, skip sending DAO
+[WARN: RPL       ] local repair (DAO max rtx)
+[INFO: RPL       ] reset MRHOF
+[INFO: RPL       ] removing all neighbors
+[INFO: App       ] Start Sending: 196 asn 00.0000a9a7
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 197 asn 00.0000aa6f
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 198 asn 00.0000ab38
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 199 asn 00.0000ac01
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 200 asn 00.0000acca
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 201 asn 00.0000ad93
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 202 asn 00.0000ae5b
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 203 asn 00.0000af24
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 204 asn 00.0000afed
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 205 asn 00.0000b0b6
+[INFO: App       ] Not reachable yet
+[INFO: RPL       ] sending a DIS to ff02::1a
+[INFO: TSCH-LOG  ] {asn 00.0000b174 link  2  41   0  0  0 ch 15} bc-1-0 tx LL-0485->LL-NULL, len  24, seq 145, st 0  1[INFO: App       ] Start Sending: 206 asn 00.0000b17f
+[INFO: App       ] Not reachable yet
+[INFO: App       ] Start Sending: 207 asn 00.0000b247
+[INFO: App       ] Not reachable yet[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
+[INFO: TSCH-LOG  ] {asn 00.0000b30e link  2  41   0  0  0 ch 26} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq  89, edr   8
+[INFO: App       ] Start Sending: 208 asn 00.0000b312
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 209 asn 00.0000b3da
+[INFO: App       ] Not reachable yet[INFO: App       ] Start Sending: 210 asn 00.0000b4a3
+[INFO: App       ] Not reachable yet[INFO: RPL       ] received a multicast-DIO from fe80::f6ce:3623:9010:1fdc, instance_id 0, DAG ID fd00::f6ce:3623:9010:1fdc, version 240, dtsn 240, rank 128
+[INFO: TSCH-LOG  ] {asn 00.0000b54c link  2  41   0  0  0 ch 15} bc-1-0 rx LL-1fdc->LL-NULL, len  94, seq  89, edr   8[INFO: App       ] Start Sending: 211 asn 00.0000b56c
+[INFO: App       ] Not reachable yet
